@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3747738073111785587",
-                    "size": "2723865587",
-                    "download": "2156510816"
+                    "gid": "2478317935852601984",
+                    "size": "1074183551",
+                    "download": "583865888"
                 },
                 "devbranch": {
                     "gid": "2205305570452064217",
@@ -80,9 +80,9 @@
                     "download": "2082263856"
                 },
                 "beta": {
-                    "gid": "7699914292655899937",
-                    "size": "1074183741",
-                    "download": "583867664"
+                    "gid": "2478317935852601984",
+                    "size": "1074183551",
+                    "download": "583865888"
                 }
             }
         },
@@ -93,9 +93,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5133656177726289377",
-                    "size": "2696264588",
-                    "download": "2148569280"
+                    "gid": "7238507096790628342",
+                    "size": "1046582552",
+                    "download": "575930992"
                 },
                 "devbranch": {
                     "gid": "7260948663136071317",
@@ -113,16 +113,16 @@
                     "download": "2075215584"
                 },
                 "beta": {
-                    "gid": "7159603401288094708",
-                    "size": "1046582742",
-                    "download": "575930608"
+                    "gid": "7238507096790628342",
+                    "size": "1046582552",
+                    "download": "575930992"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "15119712",
-                "timeupdated": "1721705976"
+                "buildid": "15263525",
+                "timeupdated": "1722859899"
             },
             "devbranch": {
                 "buildid": "11423122",
@@ -139,14 +139,14 @@
                 "timeupdated": "1689829236"
             },
             "beta": {
-                "buildid": "15263325",
+                "buildid": "15263525",
                 "description": "beta branch",
-                "timeupdated": "1722857671"
+                "timeupdated": "1722859160"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24651513,
-    "_sha": "d97b0f965815dabf923cc2f8dc7910a0d4a13b7b",
-    "_size": 3247
+    "_change_number": 24651933,
+    "_sha": "47059f4edd3bcc2a3b8f9d60de98bcbec690ff8b",
+    "_size": 3245
 }
