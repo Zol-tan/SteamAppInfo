@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15276841",
+            "buildid": "15277296",
             "pwdrequired": "1",
-            "timeupdated": "1722948183"
+            "timeupdated": "1722950980"
         },
         "lionbridge_qa": {
             "buildid": "15222967",
@@ -8009,9 +8009,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15275145",
+            "buildid": "15277327",
             "description": "Builds before live",
-            "timeupdated": "1722938779"
+            "timeupdated": "1722951163"
         }
     },
     "1899880": {
