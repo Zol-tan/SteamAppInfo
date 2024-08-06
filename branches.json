@@ -116,9 +116,9 @@
             "timeupdated": "1722615474"
         },
         "dev": {
-            "buildid": "15265261",
+            "buildid": "15280213",
             "description": "Development Branch",
-            "timeupdated": "1722869880"
+            "timeupdated": "1722967510"
         },
         "prerelease": {
             "buildid": "15242095",
@@ -3613,9 +3613,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15267192",
+            "buildid": "15280395",
             "description": "beta branch",
-            "timeupdated": "1722882444"
+            "timeupdated": "1722968765"
         }
     },
     "604100": {},
@@ -3785,14 +3785,14 @@
             "timeupdated": "1713813913"
         },
         "nighly": {
-            "buildid": "15270940",
+            "buildid": "15280407",
             "pwdrequired": "1",
-            "timeupdated": "1722909582"
+            "timeupdated": "1722968833"
         },
         "nighly_shack": {
-            "buildid": "15270940",
+            "buildid": "15280407",
             "pwdrequired": "1",
-            "timeupdated": "1722946848"
+            "timeupdated": "1722968849"
         },
         "shack": {
             "buildid": "14629990",
