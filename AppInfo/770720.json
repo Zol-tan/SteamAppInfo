@@ -589,9 +589,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "EADA531D3143BC9005889C9CC6D8B6D4",
-                    "size": "385A75A4655AE7654A4E68DED772DCF6",
-                    "download": "A82030E8D7243DD4359AA09CD65789C3"
+                    "gid": "A657FEB44E35E299F58EE967388640BD",
+                    "size": "5491198F207BE2A4AAFA589592BEC8FB",
+                    "download": "67BE1C2489A8C0CE7FCBA0D0FC113FD5"
                 },
                 "lionbridge_qa": {
                     "gid": "8EB932876DFC599494C842B1AAB957E4",
@@ -1101,9 +1101,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15286366",
+                "buildid": "15286661",
                 "pwdrequired": "1",
-                "timeupdated": "1723011606"
+                "timeupdated": "1723013945"
             },
             "lionbridge_qa": {
                 "buildid": "15236267",
@@ -1143,7 +1143,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24680407,
-    "_sha": "83a5683c5f4d1f85fea46c85d7a0cd098b94b6dc",
+    "_change_number": 24680555,
+    "_sha": "4720da49bb6b3635cf56dd18003fddfbc2ed92b8",
     "_size": 33186
 }
