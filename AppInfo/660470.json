@@ -30,9 +30,9 @@
             "manifests": {},
             "encryptedmanifests": {
                 "official": {
-                    "gid": "B3BB6BC654F89DE5F1FC11D562BDB0C2",
-                    "size": "2B188ECAA20B02106CAFDA23144AE71B",
-                    "download": "7A5DC785231242922C612E38ACF16847"
+                    "gid": "E1F7BE6A4DCBDFA5E39D39F8D9775DEF",
+                    "size": "5FE1E2EBC1B613E3632668462ECFE367",
+                    "download": "7A892C305C39378CE8EE7301F01DDA99"
                 },
                 "testing": {
                     "gid": "5ACC9C761BE816B1D458022DC072E65B",
@@ -47,9 +47,9 @@
                 "timeupdated": "1558425574"
             },
             "official": {
-                "buildid": "15247370",
+                "buildid": "15286464",
                 "pwdrequired": "1",
-                "timeupdated": "1722651631"
+                "timeupdated": "1723012463"
             },
             "testing": {
                 "buildid": "15286464",
@@ -59,7 +59,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24680292,
-    "_sha": "9783f0135f97bdd1016a4ba5ba5eab71851c3a0b",
+    "_change_number": 24680308,
+    "_sha": "fc96b4fa3075b0523f2660ee5f05ddf3aaf8753c",
     "_size": 1418
 }
