@@ -3618,9 +3618,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15308377",
+            "buildid": "15311314",
             "description": "beta branch",
-            "timeupdated": "1723141774"
+            "timeupdated": "1723160030"
         }
     },
     "604100": {},
@@ -7482,9 +7482,9 @@
             "timeupdated": "1718101087"
         },
         "nightly": {
-            "buildid": "15301116",
+            "buildid": "15311328",
             "pwdrequired": "1",
-            "timeupdated": "1723104114"
+            "timeupdated": "1723160057"
         },
         "patchnotes-cheats": {
             "buildid": "15291339",
