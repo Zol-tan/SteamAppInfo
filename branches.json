@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15316203",
+            "buildid": "15316406",
             "pwdrequired": "1",
-            "timeupdated": "1723194781"
+            "timeupdated": "1723195681"
         },
         "lionbridge_qa": {
             "buildid": "15286366",
@@ -7482,9 +7482,9 @@
             "timeupdated": "1718101087"
         },
         "nightly": {
-            "buildid": "15311328",
+            "buildid": "15316343",
             "pwdrequired": "1",
-            "timeupdated": "1723160057"
+            "timeupdated": "1723195498"
         },
         "patchnotes-cheats": {
             "buildid": "15291339",
