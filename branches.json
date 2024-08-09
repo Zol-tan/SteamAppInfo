@@ -126,9 +126,9 @@
             "timeupdated": "1723208784"
         },
         "x86-64": {
-            "buildid": "15265368",
+            "buildid": "15319117",
             "description": "Testing 64-bit builds",
-            "timeupdated": "1722870599"
+            "timeupdated": "1723210479"
         }
     },
     "4240": {},
@@ -5759,9 +5759,9 @@
             "timeupdated": "1717183209"
         },
         "mr-testing": {
-            "buildid": "15284117",
+            "buildid": "15318434",
             "pwdrequired": "1",
-            "timeupdated": "1723168940"
+            "timeupdated": "1723210855"
         },
         "nightly": {
             "buildid": "15313284",
