@@ -2294,11 +2294,6 @@
             "pwdrequired": "1",
             "timeupdated": "1596160056"
         },
-        "beta": {
-            "buildid": "6699699",
-            "pwdrequired": "1",
-            "timeupdated": "1620989800"
-        },
         "eacbeta": {
             "buildid": "3227716",
             "pwdrequired": "1",
@@ -2343,6 +2338,11 @@
             "buildid": "5884600",
             "pwdrequired": "1",
             "timeupdated": "1606374973"
+        },
+        "beta": {
+            "buildid": "15320241",
+            "pwdrequired": "1",
+            "timeupdated": "1723216569"
         }
     },
     "419790": {
@@ -6022,11 +6022,6 @@
             "buildid": "6699778",
             "timeupdated": "1622556045"
         },
-        "beta": {
-            "buildid": "6699778",
-            "pwdrequired": "1",
-            "timeupdated": "1620990575"
-        },
         "gamm": {
             "buildid": "4439286",
             "pwdrequired": "1",
@@ -6036,6 +6031,11 @@
             "buildid": "5707993",
             "pwdrequired": "1",
             "timeupdated": "1603480927"
+        },
+        "beta": {
+            "buildid": "15320258",
+            "pwdrequired": "1",
+            "timeupdated": "1723216649"
         }
     },
     "1084900": {
