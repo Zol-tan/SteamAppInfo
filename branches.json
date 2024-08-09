@@ -3014,9 +3014,9 @@
             "timeupdated": "1721844325"
         },
         "eleononly": {
-            "buildid": "15308580",
+            "buildid": "15319027",
             "pwdrequired": "1",
-            "timeupdated": "1723142806"
+            "timeupdated": "1723210017"
         },
         "eleontest": {
             "buildid": "15173413",
@@ -5021,9 +5021,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15310930",
+            "buildid": "15318866",
             "pwdrequired": "1",
-            "timeupdated": "1723156904"
+            "timeupdated": "1723209133"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -7312,9 +7312,9 @@
             "timeupdated": "1719855944"
         },
         "testpublic": {
-            "buildid": "15018672",
+            "buildid": "15319028",
             "description": "testpublic",
-            "timeupdated": "1720818703"
+            "timeupdated": "1723210030"
         }
     },
     "1665030": {
@@ -7870,9 +7870,9 @@
             "timeupdated": "1722019491"
         },
         "qavalidation": {
-            "buildid": "15165386",
+            "buildid": "15318953",
             "pwdrequired": "1",
-            "timeupdated": "1722012897"
+            "timeupdated": "1723209698"
         }
     },
     "1850780": {
