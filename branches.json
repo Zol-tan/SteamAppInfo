@@ -6211,14 +6211,14 @@
             "timeupdated": "1685009630"
         },
         "dev-branch": {
-            "buildid": "15306215",
+            "buildid": "15318114",
             "pwdrequired": "1",
-            "timeupdated": "1723130101"
+            "timeupdated": "1723207530"
         },
         "public-test-branch": {
-            "buildid": "15306215",
+            "buildid": "15318114",
             "pwdrequired": "1",
-            "timeupdated": "1723130107"
+            "timeupdated": "1723207541"
         }
     },
     "1169370": {
@@ -7895,8 +7895,8 @@
     },
     "1863440": {
         "public": {
-            "buildid": "14858842",
-            "timeupdated": "1719492950"
+            "buildid": "15276684",
+            "timeupdated": "1723206354"
         },
         "community.server.test": {
             "buildid": "9827894",
@@ -7923,15 +7923,10 @@
             "pwdrequired": "1",
             "timeupdated": "1714721944"
         },
-        "v1.2.10": {
-            "buildid": "14858842",
-            "description": "v1.2.10",
-            "timeupdated": "1719492972"
-        },
         "v1.2.11": {
-            "buildid": "15164372",
+            "buildid": "15276684",
             "description": "Beta v1.2.11",
-            "timeupdated": "1722007243"
+            "timeupdated": "1723206468"
         }
     },
     "1865350": {
