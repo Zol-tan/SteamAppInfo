@@ -1080,13 +1080,13 @@
             "timeupdated": "1722855072"
         },
         "staging": {
-            "buildid": "15312067",
-            "timeupdated": "1723165505"
+            "buildid": "15316213",
+            "timeupdated": "1723194808"
         },
         "staging-debug": {
-            "buildid": "15312080",
+            "buildid": "15316225",
             "pwdrequired": "1",
-            "timeupdated": "1723165586"
+            "timeupdated": "1723194890"
         },
         "test": {
             "buildid": "15110119",
@@ -4490,9 +4490,9 @@
             "timeupdated": "1722583666"
         },
         "playtest": {
-            "buildid": "15308859",
+            "buildid": "15316060",
             "pwdrequired": "1",
-            "timeupdated": "1723144290"
+            "timeupdated": "1723194012"
         },
         "release": {
             "buildid": "14926162",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15315891",
+            "buildid": "15316203",
             "pwdrequired": "1",
-            "timeupdated": "1723193041"
+            "timeupdated": "1723194781"
         },
         "lionbridge_qa": {
             "buildid": "15286366",
@@ -7021,9 +7021,9 @@
             "timeupdated": "1722420134"
         },
         "staging": {
-            "buildid": "15305009",
+            "buildid": "15316031",
             "pwdrequired": "1",
-            "timeupdated": "1723123545"
+            "timeupdated": "1723193825"
         }
     },
     "1427490": {
