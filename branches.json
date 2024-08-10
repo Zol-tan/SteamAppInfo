@@ -2702,9 +2702,9 @@
             "timeupdated": "1710518130"
         },
         "devtest": {
-            "buildid": "15321776",
+            "buildid": "15327501",
             "pwdrequired": "1",
-            "timeupdated": "1723225105"
+            "timeupdated": "1723279173"
         }
     },
     "485250": {
@@ -4490,9 +4490,9 @@
             "timeupdated": "1722583666"
         },
         "playtest": {
-            "buildid": "15318743",
+            "buildid": "15327472",
             "pwdrequired": "1",
-            "timeupdated": "1723208486"
+            "timeupdated": "1723278881"
         },
         "release": {
             "buildid": "14926162",
