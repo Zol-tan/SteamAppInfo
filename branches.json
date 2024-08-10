@@ -5850,9 +5850,9 @@
             "timeupdated": "1575325423"
         },
         "0.6-beta": {
-            "buildid": "15167908",
+            "buildid": "15328645",
             "pwdrequired": "1",
-            "timeupdated": "1722045601"
+            "timeupdated": "1723297006"
         },
         "alpha": {
             "buildid": "15328645",
@@ -7660,9 +7660,9 @@
             "timeupdated": "1645096873"
         },
         "development": {
-            "buildid": "15318712",
+            "buildid": "15328771",
             "description": "development",
-            "timeupdated": "1723208179"
+            "timeupdated": "1723297288"
         }
     },
     "1801280": {
