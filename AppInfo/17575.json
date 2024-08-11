@@ -103,14 +103,14 @@
                 "timeupdated": "1707007376"
             },
             "beta": {
-                "buildid": "15334540",
+                "buildid": "15334595",
                 "pwdrequired": "1",
-                "timeupdated": "1723390274"
+                "timeupdated": "1723391340"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24739968,
-    "_sha": "ae8a38168dd7bb18e8785b4fbfacdcdc97da086f",
+    "_change_number": 24740086,
+    "_sha": "1f66f134e3e7014ef31af40aebe7be0fa9d858a4",
     "_size": 2385
 }
