@@ -3600,8 +3600,8 @@
     },
     "600760": {
         "public": {
-            "buildid": "15263525",
-            "timeupdated": "1722859899"
+            "buildid": "15349201",
+            "timeupdated": "1723517392"
         },
         "devbranch": {
             "buildid": "11423122",
@@ -5305,9 +5305,9 @@
             "timeupdated": "1720802240"
         },
         "tester": {
-            "buildid": "15347116",
+            "buildid": "15349745",
             "pwdrequired": "1",
-            "timeupdated": "1723498152"
+            "timeupdated": "1723516889"
         }
     },
     "884110": {
