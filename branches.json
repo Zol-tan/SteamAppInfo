@@ -3014,9 +3014,9 @@
             "timeupdated": "1723582099"
         },
         "eleononly": {
-            "buildid": "15366677",
+            "buildid": "15368178",
             "pwdrequired": "1",
-            "timeupdated": "1723629557"
+            "timeupdated": "1723637609"
         },
         "eleontest": {
             "buildid": "15366677",
@@ -4991,9 +4991,9 @@
             "timeupdated": "1723598611"
         },
         "uat_featuretest10": {
-            "buildid": "15357979",
+            "buildid": "15367952",
             "pwdrequired": "1",
-            "timeupdated": "1723568378"
+            "timeupdated": "1723636437"
         },
         "uat_featuretest11": {
             "buildid": "14999034",
@@ -5759,9 +5759,9 @@
             "timeupdated": "1717183209"
         },
         "mr-testing": {
-            "buildid": "15318434",
+            "buildid": "15360766",
             "pwdrequired": "1",
-            "timeupdated": "1723210855"
+            "timeupdated": "1723637123"
         },
         "nightly": {
             "buildid": "15363426",
@@ -7016,9 +7016,9 @@
             "timeupdated": "1723624758"
         },
         "staging": {
-            "buildid": "15367849",
+            "buildid": "15368227",
             "pwdrequired": "1",
-            "timeupdated": "1723635724"
+            "timeupdated": "1723637904"
         }
     },
     "1427490": {
