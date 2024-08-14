@@ -2211,9 +2211,9 @@
             "timeupdated": "1716198744"
         },
         "qa-shipping": {
-            "buildid": "14673886",
+            "buildid": "15371257",
             "pwdrequired": "1",
-            "timeupdated": "1718088654"
+            "timeupdated": "1723654053"
         },
         "qa-shipping-h": {
             "buildid": "15290324",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15365946",
+            "buildid": "15371133",
             "pwdrequired": "1",
-            "timeupdated": "1723625214"
+            "timeupdated": "1723653406"
         },
         "lionbridge_qa": {
             "buildid": "15315272",
@@ -5218,9 +5218,9 @@
             "timeupdated": "1671721310"
         },
         "communitytesting": {
-            "buildid": "15346308",
+            "buildid": "15371269",
             "pwdrequired": "1",
-            "timeupdated": "1723492604"
+            "timeupdated": "1723654073"
         },
         "newbuild-release": {
             "buildid": "15303481",
@@ -7354,9 +7354,9 @@
             "timeupdated": "1720760643"
         },
         "private_ow": {
-            "buildid": "15357952",
+            "buildid": "15371211",
             "pwdrequired": "1",
-            "timeupdated": "1723568220"
+            "timeupdated": "1723653896"
         },
         "private_qa": {
             "buildid": "15367281",
