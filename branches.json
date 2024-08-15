@@ -2625,9 +2625,9 @@
             "timeupdated": "1488503304"
         },
         "alpha": {
-            "buildid": "15361441",
+            "buildid": "15386780",
             "pwdrequired": "1",
-            "timeupdated": "1723591478"
+            "timeupdated": "1723756099"
         },
         "beta": {
             "buildid": "15336085",
@@ -4986,9 +4986,9 @@
             "timeupdated": "1718124395"
         },
         "uat_featuretest9": {
-            "buildid": "15386573",
+            "buildid": "15386841",
             "pwdrequired": "1",
-            "timeupdated": "1723754319"
+            "timeupdated": "1723756543"
         },
         "uat_featuretest10": {
             "buildid": "15382670",
