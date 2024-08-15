@@ -1080,13 +1080,13 @@
             "timeupdated": "1722855072"
         },
         "staging": {
-            "buildid": "15387766",
-            "timeupdated": "1723762811"
+            "buildid": "15387960",
+            "timeupdated": "1723764518"
         },
         "staging-debug": {
-            "buildid": "15387773",
+            "buildid": "15387968",
             "pwdrequired": "1",
-            "timeupdated": "1723762896"
+            "timeupdated": "1723764604"
         },
         "test": {
             "buildid": "15110119",
@@ -4921,9 +4921,9 @@
             "timeupdated": "1723762762"
         },
         "uat_community_hosting": {
-            "buildid": "15081521",
+            "buildid": "15379977",
             "pwdrequired": "1",
-            "timeupdated": "1721342972"
+            "timeupdated": "1723764963"
         },
         "uat_content": {
             "buildid": "15379977",
@@ -7477,9 +7477,9 @@
             "timeupdated": "1723723059"
         },
         "nightly": {
-            "buildid": "15374977",
+            "buildid": "15388016",
             "pwdrequired": "1",
-            "timeupdated": "1723678828"
+            "timeupdated": "1723764896"
         },
         "patchnotes-cheats": {
             "buildid": "15291339",
@@ -7946,9 +7946,9 @@
             "timeupdated": "1723550812"
         },
         "internal": {
-            "buildid": "15375147",
+            "buildid": "15388029",
             "pwdrequired": "1",
-            "timeupdated": "1723680310"
+            "timeupdated": "1723765008"
         },
         "stable": {
             "buildid": "15349555",
