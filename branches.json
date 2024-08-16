@@ -3618,9 +3618,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15390435",
+            "buildid": "15390987",
             "description": "beta branch",
-            "timeupdated": "1723784032"
+            "timeupdated": "1723789036"
         }
     },
     "604100": {},
@@ -5384,9 +5384,9 @@
             "timeupdated": "1718091885"
         },
         "internal-test": {
-            "buildid": "15340308",
+            "buildid": "15383270",
             "pwdrequired": "1",
-            "timeupdated": "1723470527"
+            "timeupdated": "1723788850"
         },
         "public-test": {
             "buildid": "15356095",
