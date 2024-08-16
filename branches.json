@@ -5021,9 +5021,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15380792",
+            "buildid": "15392113",
             "pwdrequired": "1",
-            "timeupdated": "1723719968"
+            "timeupdated": "1723796245"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -6593,9 +6593,9 @@
             "timeupdated": "1718957295"
         },
         "internal-2": {
-            "buildid": "15369397",
+            "buildid": "15392181",
             "pwdrequired": "1",
-            "timeupdated": "1723644143"
+            "timeupdated": "1723796650"
         },
         "internal-20": {
             "buildid": "15209400",
@@ -8283,9 +8283,9 @@
             "timeupdated": "1723098137"
         },
         "canary": {
-            "buildid": "15391336",
+            "buildid": "15392204",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1723791542"
+            "timeupdated": "1723796843"
         },
         "hotfix": {
             "buildid": "15353459",
