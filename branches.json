@@ -3508,9 +3508,9 @@
             "timeupdated": "1675254464"
         },
         "ss_cte_3": {
-            "buildid": "14533775",
+            "buildid": "15396257",
             "pwdrequired": "1",
-            "timeupdated": "1716989398"
+            "timeupdated": "1723819296"
         },
         "ss_cte_5": {
             "buildid": "14839148",
@@ -5561,9 +5561,9 @@
             "timeupdated": "1712853734"
         },
         "sdktest": {
-            "buildid": "15381550",
+            "buildid": "15396353",
             "description": "SDK Test Server",
-            "timeupdated": "1723724507"
+            "timeupdated": "1723819785"
         }
     },
     "928530": {
@@ -6638,9 +6638,9 @@
             "timeupdated": "1722600218"
         },
         "internal-qa": {
-            "buildid": "15385449",
+            "buildid": "15396402",
             "pwdrequired": "1",
-            "timeupdated": "1723747249"
+            "timeupdated": "1723819932"
         },
         "internal-slow": {
             "buildid": "15075007",
