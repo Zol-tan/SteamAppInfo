@@ -4352,9 +4352,9 @@
             "timeupdated": "1717187026"
         },
         "astromain_dailies": {
-            "buildid": "15365873",
+            "buildid": "15392819",
             "pwdrequired": "1",
-            "timeupdated": "1723624775"
+            "timeupdated": "1723800355"
         },
         "astromain_incremental": {
             "buildid": "15388771",
@@ -5021,9 +5021,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15392113",
+            "buildid": "15392902",
             "pwdrequired": "1",
-            "timeupdated": "1723796245"
+            "timeupdated": "1723800983"
         },
         "uat_tct": {
             "buildid": "9972864",
