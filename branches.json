@@ -703,9 +703,9 @@
             "timeupdated": "1723656228"
         },
         "stable": {
-            "buildid": "14895800",
+            "buildid": "15381549",
             "pwdrequired": "1",
-            "timeupdated": "1720002894"
+            "timeupdated": "1724064350"
         },
         "xb1_experimental": {
             "buildid": "15227354",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1723011740"
         },
         "dq_functional": {
-            "buildid": "15326370",
+            "buildid": "15389914",
             "pwdrequired": "1",
-            "timeupdated": "1724055971"
+            "timeupdated": "1724064740"
         },
         "eac_pgo_use": {
             "buildid": "15340304",
@@ -4834,9 +4834,9 @@
             "timeupdated": "1724063295"
         },
         "lionbridge_qa": {
-            "buildid": "15326370",
+            "buildid": "15389914",
             "pwdrequired": "1",
-            "timeupdated": "1724055984"
+            "timeupdated": "1724064721"
         },
         "m1_test": {
             "buildid": "15326370",
@@ -5607,11 +5607,6 @@
             "pwdrequired": "1",
             "timeupdated": "1676281847"
         },
-        "rc-beta": {
-            "buildid": "13964155",
-            "pwdrequired": "1",
-            "timeupdated": "1712328321"
-        },
         "coc_staging": {
             "buildid": "14432023",
             "pwdrequired": "1",
@@ -5621,6 +5616,11 @@
             "buildid": "14432023",
             "pwdrequired": "1",
             "timeupdated": "1716464296"
+        },
+        "rc-beta": {
+            "buildid": "15418636",
+            "pwdrequired": "1",
+            "timeupdated": "1724064870"
         }
     },
     "944490": {
