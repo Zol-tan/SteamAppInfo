@@ -688,9 +688,9 @@
             "timeupdated": "1723622994"
         },
         "ps4_stable": {
-            "buildid": "14892065",
+            "buildid": "15365539",
             "pwdrequired": "1",
-            "timeupdated": "1720004955"
+            "timeupdated": "1724065138"
         },
         "qa_tmp": {
             "buildid": "14156038",
@@ -723,9 +723,9 @@
             "timeupdated": "1722519419"
         },
         "xb1_stable": {
-            "buildid": "14892337",
+            "buildid": "15365878",
             "pwdrequired": "1",
-            "timeupdated": "1720004936"
+            "timeupdated": "1724065121"
         }
     },
     "224620": {
@@ -2196,9 +2196,9 @@
             "timeupdated": "1714710407"
         },
         "qa-debug": {
-            "buildid": "15400857",
+            "buildid": "15418728",
             "pwdrequired": "1",
-            "timeupdated": "1723850742"
+            "timeupdated": "1724065450"
         },
         "qa-debug-h": {
             "buildid": "15294583",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15418348",
+            "buildid": "15418771",
             "pwdrequired": "1",
-            "timeupdated": "1724063295"
+            "timeupdated": "1724065745"
         },
         "lionbridge_qa": {
             "buildid": "15389914",
@@ -8288,9 +8288,9 @@
             "timeupdated": "1723098137"
         },
         "canary": {
-            "buildid": "15417285",
+            "buildid": "15418669",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1724057286"
+            "timeupdated": "1724065065"
         },
         "hotfix": {
             "buildid": "15353459",
