@@ -1046,14 +1046,14 @@
             "timeupdated": "1723723419"
         },
         "aux02": {
-            "buildid": "15435866",
+            "buildid": "15436520",
             "description": "Up and coming",
-            "timeupdated": "1724165296"
+            "timeupdated": "1724168545"
         },
         "aux02-debug": {
-            "buildid": "15435889",
+            "buildid": "15436538",
             "pwdrequired": "1",
-            "timeupdated": "1724165397"
+            "timeupdated": "1724168650"
         },
         "last-month": {
             "buildid": "15023446",
@@ -1080,13 +1080,13 @@
             "timeupdated": "1724054193"
         },
         "staging": {
-            "buildid": "15435546",
-            "timeupdated": "1724163641"
+            "buildid": "15436591",
+            "timeupdated": "1724168925"
         },
         "staging-debug": {
-            "buildid": "15435603",
+            "buildid": "15436613",
             "pwdrequired": "1",
-            "timeupdated": "1724163913"
+            "timeupdated": "1724169029"
         },
         "test": {
             "buildid": "15110119",
@@ -8273,9 +8273,9 @@
             "timeupdated": "1723098137"
         },
         "canary": {
-            "buildid": "15434794",
+            "buildid": "15436571",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1724159440"
+            "timeupdated": "1724168802"
         },
         "hotfix": {
             "buildid": "15353459",
