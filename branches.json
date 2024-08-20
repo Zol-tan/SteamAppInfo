@@ -1084,9 +1084,9 @@
             "timeupdated": "1724163641"
         },
         "staging-debug": {
-            "buildid": "15435148",
+            "buildid": "15435603",
             "pwdrequired": "1",
-            "timeupdated": "1724161391"
+            "timeupdated": "1724163913"
         },
         "test": {
             "buildid": "15110119",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15435125",
+            "buildid": "15435705",
             "pwdrequired": "1",
-            "timeupdated": "1724161257"
+            "timeupdated": "1724164453"
         },
         "lionbridge_qa": {
             "buildid": "15418771",
