@@ -1080,13 +1080,13 @@
             "timeupdated": "1724054193"
         },
         "staging": {
-            "buildid": "15448566",
-            "timeupdated": "1724249621"
+            "buildid": "15450873",
+            "timeupdated": "1724262571"
         },
         "staging-debug": {
-            "buildid": "15448591",
+            "buildid": "15450893",
             "pwdrequired": "1",
-            "timeupdated": "1724249740"
+            "timeupdated": "1724262656"
         },
         "test": {
             "buildid": "15110119",
@@ -2479,9 +2479,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15429424",
+            "buildid": "15450800",
             "pwdrequired": "1",
-            "timeupdated": "1724127176"
+            "timeupdated": "1724262229"
         },
         "nightly-test": {
             "buildid": "15430883",
