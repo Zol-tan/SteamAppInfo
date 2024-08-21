@@ -6583,9 +6583,9 @@
             "timeupdated": "1718957295"
         },
         "internal-2": {
-            "buildid": "15422392",
+            "buildid": "15447988",
             "pwdrequired": "1",
-            "timeupdated": "1724084809"
+            "timeupdated": "1724246109"
         },
         "internal-20": {
             "buildid": "15209400",
@@ -7131,9 +7131,9 @@
             "timeupdated": "1721831473"
         },
         "pre-experimental": {
-            "buildid": "15447725",
+            "buildid": "15447850",
             "pwdrequired": "1",
-            "timeupdated": "1724244610"
+            "timeupdated": "1724245280"
         }
     },
     "1503660": {
@@ -8273,9 +8273,9 @@
             "timeupdated": "1723098137"
         },
         "canary": {
-            "buildid": "15446310",
+            "buildid": "15447993",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1724236166"
+            "timeupdated": "1724246122"
         },
         "hotfix": {
             "buildid": "15353459",
