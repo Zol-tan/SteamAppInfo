@@ -361,9 +361,9 @@
                     "download": "50440ECBF50E853B7A0F971F9908726C"
                 },
                 "uat_release": {
-                    "gid": "FDB54486749C986749DFAC860F93B28D",
-                    "size": "90FB05C0172F3B1AD5F9B29BCEA03203",
-                    "download": "5995253900E7AB76C273644F3B75B613"
+                    "gid": "AC9CC0731AFFB742ABF4AB34F8065BBA",
+                    "size": "5A82B2BED8C285BE99BFC07B7DE12141",
+                    "download": "A653442DC45B048999E9B7CDD2229AEA"
                 },
                 "uat_tct": {
                     "gid": "B1B9BFC105B0CD27D5509F4316DF163A",
@@ -623,9 +623,9 @@
                 "timeupdated": "1717710954"
             },
             "uat_release": {
-                "buildid": "15456565",
+                "buildid": "15456917",
                 "pwdrequired": "1",
-                "timeupdated": "1724309039"
+                "timeupdated": "1724311981"
             },
             "uat_tct": {
                 "buildid": "9972864",
@@ -645,7 +645,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24892188,
-    "_sha": "61429f56c2fc3669ccf0709eab3ad99fa971809a",
+    "_change_number": 24892732,
+    "_sha": "4e8ce2cd63fc1944816a88b1d5e363a4bc961368",
     "_size": 18643
 }
