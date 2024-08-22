@@ -3618,9 +3618,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15454168",
+            "buildid": "15455391",
             "description": "beta branch",
-            "timeupdated": "1724286731"
+            "timeupdated": "1724297687"
         }
     },
     "604100": {},
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15454735",
+            "buildid": "15455351",
             "pwdrequired": "1",
-            "timeupdated": "1724292002"
+            "timeupdated": "1724297392"
         },
         "lionbridge_qa": {
             "buildid": "15418771",
@@ -5764,9 +5764,9 @@
             "timeupdated": "1721942633"
         },
         "nightly": {
-            "buildid": "15442934",
+            "buildid": "15455400",
             "pwdrequired": "1",
-            "timeupdated": "1724211424"
+            "timeupdated": "1724297818"
         }
     },
     "996600": {
