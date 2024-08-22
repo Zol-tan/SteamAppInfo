@@ -6628,9 +6628,9 @@
             "timeupdated": "1724165850"
         },
         "internal-qa": {
-            "buildid": "15457271",
+            "buildid": "15458552",
             "pwdrequired": "1",
-            "timeupdated": "1724313815"
+            "timeupdated": "1724321927"
         },
         "internal-slow": {
             "buildid": "15075007",
@@ -7472,9 +7472,9 @@
             "timeupdated": "1723723059"
         },
         "nightly": {
-            "buildid": "15453691",
+            "buildid": "15458372",
             "pwdrequired": "1",
-            "timeupdated": "1724283104"
+            "timeupdated": "1724320712"
         },
         "patchnotes-cheats": {
             "buildid": "15291339",
