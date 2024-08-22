@@ -5728,6 +5728,11 @@
             "buildid": "15100002",
             "timeupdated": "1721502880"
         },
+        "ci-build": {
+            "buildid": "15463597",
+            "pwdrequired": "1",
+            "timeupdated": "1724362348"
+        },
         "pluginapi-beta": {
             "buildid": "12081119",
             "description": "Plugin API staging branch",
@@ -7136,9 +7141,9 @@
             "timeupdated": "1721831473"
         },
         "pre-experimental": {
-            "buildid": "15464163",
+            "buildid": "15464722",
             "pwdrequired": "1",
-            "timeupdated": "1724357268"
+            "timeupdated": "1724361873"
         }
     },
     "1503660": {
