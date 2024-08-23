@@ -5208,9 +5208,9 @@
             "timeupdated": "1671721310"
         },
         "communitytesting": {
-            "buildid": "15437895",
+            "buildid": "15471469",
             "pwdrequired": "1",
-            "timeupdated": "1724176495"
+            "timeupdated": "1724412017"
         },
         "newbuild-release": {
             "buildid": "15453336",
@@ -8014,9 +8014,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15470699",
+            "buildid": "15471434",
             "description": "Builds before live",
-            "timeupdated": "1724407678"
+            "timeupdated": "1724411826"
         }
     },
     "1899880": {
