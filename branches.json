@@ -1046,14 +1046,14 @@
             "timeupdated": "1723723419"
         },
         "aux02": {
-            "buildid": "15462217",
+            "buildid": "15472019",
             "description": "Up and coming",
-            "timeupdated": "1724343939"
+            "timeupdated": "1724415526"
         },
         "aux02-debug": {
-            "buildid": "15462234",
+            "buildid": "15472027",
             "pwdrequired": "1",
-            "timeupdated": "1724344042"
+            "timeupdated": "1724415630"
         },
         "last-month": {
             "buildid": "15023446",
@@ -2071,9 +2071,9 @@
             "timeupdated": "1717086100"
         },
         "squad_main": {
-            "buildid": "15471731",
+            "buildid": "15472328",
             "pwdrequired": "1",
-            "timeupdated": "1724413611"
+            "timeupdated": "1724417293"
         },
         "squad_release": {
             "buildid": "15446422",
@@ -2196,9 +2196,9 @@
             "timeupdated": "1714710407"
         },
         "qa-debug": {
-            "buildid": "15471117",
+            "buildid": "15472207",
             "pwdrequired": "1",
-            "timeupdated": "1724410097"
+            "timeupdated": "1724416552"
         },
         "qa-debug-h": {
             "buildid": "15294583",
@@ -3024,9 +3024,9 @@
             "timeupdated": "1723647669"
         },
         "internal": {
-            "buildid": "15454420",
+            "buildid": "15472031",
             "pwdrequired": "1",
-            "timeupdated": "1724289026"
+            "timeupdated": "1724415662"
         },
         "internal2": {
             "buildid": "13881999",
@@ -7146,9 +7146,9 @@
             "timeupdated": "1721831473"
         },
         "pre-experimental": {
-            "buildid": "15464722",
+            "buildid": "15471987",
             "pwdrequired": "1",
-            "timeupdated": "1724361873"
+            "timeupdated": "1724415280"
         }
     },
     "1503660": {
