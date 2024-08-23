@@ -2479,9 +2479,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15455535",
+            "buildid": "15469001",
             "pwdrequired": "1",
-            "timeupdated": "1724299108"
+            "timeupdated": "1724398010"
         },
         "nightly-test": {
             "buildid": "15468628",
@@ -4956,9 +4956,9 @@
             "timeupdated": "1724246373"
         },
         "uat_featuretest5": {
-            "buildid": "15457353",
+            "buildid": "15469054",
             "pwdrequired": "1",
-            "timeupdated": "1724314192"
+            "timeupdated": "1724398223"
         },
         "uat_featuretest6": {
             "buildid": "15453789",
