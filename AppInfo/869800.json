@@ -114,21 +114,21 @@
                     "download": "2251053232"
                 },
                 "revert": {
-                    "gid": "3193671605850096590",
-                    "size": "6798394930",
-                    "download": "2250942288"
-                },
-                "upcoming": {
                     "gid": "3771825711057167007",
                     "size": "6798633394",
                     "download": "2251053232"
+                },
+                "upcoming": {
+                    "gid": "6430182654344134973",
+                    "size": "6834475112",
+                    "download": "2259559152"
                 }
             },
             "encryptedmanifests": {
                 "prerelease": {
-                    "gid": "3E953F81057FF7E812B05AEB33F60DC7",
-                    "size": "5A97AC5F42F87A1AF468FFA407BAA124",
-                    "download": "9FB6784B82281B4674D6D0BE230AB61B"
+                    "gid": "7B9DC1C8ECF9E6AF0304239B3083FBC2",
+                    "size": "16F043C77E9572AAF1E6F4491175AFC7",
+                    "download": "043957B4F626BC4403414E0FEC53E889"
                 }
             }
         },
@@ -143,21 +143,21 @@
                     "download": "18543392"
                 },
                 "revert": {
-                    "gid": "2714570133291637325",
-                    "size": "53430482",
-                    "download": "18539776"
-                },
-                "upcoming": {
                     "gid": "2169726416321573830",
                     "size": "53461714",
                     "download": "18543392"
+                },
+                "upcoming": {
+                    "gid": "7695254073059056919",
+                    "size": "53428434",
+                    "download": "18521824"
                 }
             },
             "encryptedmanifests": {
                 "prerelease": {
-                    "gid": "32D6BD04AFD226E5C09558EC6BB883AB",
-                    "size": "BE0DA0B562C7B43C8D157C4F5BF343B9",
-                    "download": "356BDD2F95B63156265DE95BCCD4BE4C"
+                    "gid": "FA5EE313BABD30FA5844754B829156D5",
+                    "size": "27B5D08F474D5BB8F33E2EC7CA323307",
+                    "download": "1C82BEDA5F3B24803BC09CA043CCC697"
                 }
             }
         },
@@ -172,21 +172,21 @@
                     "download": "27881856"
                 },
                 "revert": {
-                    "gid": "2119508367671049773",
-                    "size": "104494148",
-                    "download": "27861888"
-                },
-                "upcoming": {
                     "gid": "4956475783568118002",
                     "size": "104588405",
                     "download": "27881856"
+                },
+                "upcoming": {
+                    "gid": "1091200741026775723",
+                    "size": "104476628",
+                    "download": "27843392"
                 }
             },
             "encryptedmanifests": {
                 "prerelease": {
-                    "gid": "7510C08ABE6D31A423A6DC74F8425BB0",
-                    "size": "FE3687DFC529EB8F6701DAC90CE0555B",
-                    "download": "C9EDEAA2AB3EED695BBB0371B9CCE259"
+                    "gid": "DDC4939BE52D1809C912BA7EC86841BA",
+                    "size": "8C4BDDA6DBC4C8D72D22DADC12B13B8E",
+                    "download": "71AFAEB379A859E9B1125E65A393D000"
                 }
             }
         },
@@ -197,24 +197,24 @@
                 "timeupdated": "1722093727"
             },
             "prerelease": {
-                "buildid": "15170416",
+                "buildid": "15481849",
                 "pwdrequired": "1",
-                "timeupdated": "1722061817"
+                "timeupdated": "1724513488"
             },
             "revert": {
-                "buildid": "14874011",
+                "buildid": "15170416",
                 "description": "Previous patch",
-                "timeupdated": "1722093590"
+                "timeupdated": "1724513697"
             },
             "upcoming": {
-                "buildid": "15170416",
+                "buildid": "15481849",
                 "description": "Upcoming changes",
-                "timeupdated": "1722093599"
+                "timeupdated": "1724513690"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24538612,
-    "_sha": "f9d2f3a2452cbd9fb035cb477378bcd41843de15",
+    "_change_number": 24925570,
+    "_sha": "d2ef45515219eb7099dd849a215fe5ac4fda6d5d",
     "_size": 4917
 }
