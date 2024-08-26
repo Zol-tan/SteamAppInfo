@@ -3628,9 +3628,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15487061",
+            "buildid": "15496525",
             "description": "beta branch",
-            "timeupdated": "1724610442"
+            "timeupdated": "1724696834"
         }
     },
     "604100": {},
@@ -3800,14 +3800,14 @@
             "timeupdated": "1713813913"
         },
         "nighly": {
-            "buildid": "15464915",
+            "buildid": "15496388",
             "pwdrequired": "1",
-            "timeupdated": "1724363357"
+            "timeupdated": "1724696198"
         },
         "nighly_shack": {
-            "buildid": "15464915",
+            "buildid": "15496388",
             "pwdrequired": "1",
-            "timeupdated": "1724363404"
+            "timeupdated": "1724696817"
         },
         "shack": {
             "buildid": "14629990",
@@ -4367,9 +4367,9 @@
             "timeupdated": "1724668231"
         },
         "astromain_incremental": {
-            "buildid": "15496126",
+            "buildid": "15496509",
             "pwdrequired": "1",
-            "timeupdated": "1724694558"
+            "timeupdated": "1724696702"
         },
         "astromain_su": {
             "buildid": "15491511",
@@ -6648,9 +6648,9 @@
             "timeupdated": "1724165850"
         },
         "internal-qa": {
-            "buildid": "15493378",
+            "buildid": "15496252",
             "pwdrequired": "1",
-            "timeupdated": "1724677014"
+            "timeupdated": "1724695322"
         },
         "internal-slow": {
             "buildid": "15075007",
