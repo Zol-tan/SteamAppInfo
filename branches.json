@@ -2206,9 +2206,9 @@
             "timeupdated": "1714710407"
         },
         "qa-debug": {
-            "buildid": "15495845",
+            "buildid": "15499018",
             "pwdrequired": "1",
-            "timeupdated": "1724692708"
+            "timeupdated": "1724714761"
         },
         "qa-debug-h": {
             "buildid": "15294583",
@@ -7487,9 +7487,9 @@
             "timeupdated": "1724663424"
         },
         "nightly": {
-            "buildid": "15488239",
+            "buildid": "15499084",
             "pwdrequired": "1",
-            "timeupdated": "1724628411"
+            "timeupdated": "1724715404"
         },
         "patching": {
             "buildid": "15459929",
