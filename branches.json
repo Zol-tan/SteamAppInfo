@@ -2489,9 +2489,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15484208",
+            "buildid": "15489342",
             "pwdrequired": "1",
-            "timeupdated": "1724557187"
+            "timeupdated": "1724644079"
         },
         "nightly-test": {
             "buildid": "15484893",
@@ -7280,8 +7280,8 @@
     },
     "1652070": {
         "public": {
-            "buildid": "15486048",
-            "timeupdated": "1724592472"
+            "buildid": "15489351",
+            "timeupdated": "1724644706"
         },
         "demo": {
             "buildid": "15124834",
@@ -7289,9 +7289,9 @@
             "timeupdated": "1721745969"
         },
         "development": {
-            "buildid": "15486048",
+            "buildid": "15489351",
             "pwdrequired": "1",
-            "timeupdated": "1724592482"
+            "timeupdated": "1724644659"
         }
     },
     "1653130": {
