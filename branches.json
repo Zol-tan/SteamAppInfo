@@ -683,9 +683,9 @@
             "timeupdated": "1723724507"
         },
         "ps4_internal": {
-            "buildid": "15460941",
+            "buildid": "15493352",
             "pwdrequired": "1",
-            "timeupdated": "1724336499"
+            "timeupdated": "1724676869"
         },
         "ps4_stable": {
             "buildid": "15365539",
@@ -4269,9 +4269,9 @@
             "timeupdated": "1713239022"
         },
         "qa_main_cds": {
-            "buildid": "15478187",
+            "buildid": "15493386",
             "pwdrequired": "1",
-            "timeupdated": "1724459890"
+            "timeupdated": "1724677098"
         },
         "release": {
             "buildid": "14642908",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15493169",
+            "buildid": "15493317",
             "pwdrequired": "1",
-            "timeupdated": "1724675579"
+            "timeupdated": "1724676635"
         },
         "lionbridge_qa": {
             "buildid": "15455351",
@@ -6648,9 +6648,9 @@
             "timeupdated": "1724165850"
         },
         "internal-qa": {
-            "buildid": "15491313",
+            "buildid": "15493378",
             "pwdrequired": "1",
-            "timeupdated": "1724663103"
+            "timeupdated": "1724677014"
         },
         "internal-slow": {
             "buildid": "15075007",
