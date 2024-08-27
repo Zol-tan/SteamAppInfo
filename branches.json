@@ -883,9 +883,9 @@
             "timeupdated": "1713877552"
         },
         "cdlc_private_beta_server": {
-            "buildid": "15369086",
+            "buildid": "15505552",
             "pwdrequired": "1",
-            "timeupdated": "1723642443"
+            "timeupdated": "1724763015"
         },
         "contact_staging": {
             "buildid": "15473185",
@@ -4372,9 +4372,9 @@
             "timeupdated": "1724716948"
         },
         "astromain_su": {
-            "buildid": "15491511",
+            "buildid": "15505451",
             "pwdrequired": "1",
-            "timeupdated": "1724664243"
+            "timeupdated": "1724762250"
         },
         "astrortx_dailies": {
             "buildid": "15156403",
@@ -5618,9 +5618,9 @@
             "timeupdated": "1716464296"
         },
         "rc-beta": {
-            "buildid": "15493060",
+            "buildid": "15505423",
             "pwdrequired": "1",
-            "timeupdated": "1724674929"
+            "timeupdated": "1724762106"
         }
     },
     "944490": {
@@ -6638,9 +6638,9 @@
             "timeupdated": "1724660556"
         },
         "internal-5": {
-            "buildid": "15504155",
+            "buildid": "15505592",
             "pwdrequired": "1",
-            "timeupdated": "1724754747"
+            "timeupdated": "1724763234"
         },
         "internal-6": {
             "buildid": "15504924",
@@ -7031,9 +7031,9 @@
             "timeupdated": "1724518322"
         },
         "development": {
-            "buildid": "15492920",
+            "buildid": "15505444",
             "pwdrequired": "1",
-            "timeupdated": "1724673999"
+            "timeupdated": "1724762191"
         },
         "staging": {
             "buildid": "15495461",
@@ -8029,9 +8029,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15504913",
+            "buildid": "15505518",
             "description": "Builds before live",
-            "timeupdated": "1724759168"
+            "timeupdated": "1724762733"
         }
     },
     "1899880": {
