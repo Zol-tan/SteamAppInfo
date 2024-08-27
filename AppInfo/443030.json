@@ -176,9 +176,9 @@
                     "download": "B10D7869A5409DD371B434E90BE9F18F"
                 },
                 "nightly-trunk": {
-                    "gid": "5E9FE84770AEBDD2FA59DB9C8F82B036",
-                    "size": "44ABA666C5EAD99701D25270CAA0CBD1",
-                    "download": "4EF028EFDAE55EFA33E49291695E2FBB"
+                    "gid": "F42A558DC2F45A6204FC7E2966BC45C9",
+                    "size": "ECB7F47B24B7731CA4DAB6D49A5C210E",
+                    "download": "0FCC953CEDCE177D8B907AF9938865E5"
                 },
                 "rc-retail": {
                     "gid": "8F14981CA20F49EA2841561579D811AA",
@@ -368,9 +368,9 @@
                 "timeupdated": "1724659200"
             },
             "nightly-trunk": {
-                "buildid": "15489389",
+                "buildid": "15500937",
                 "pwdrequired": "1",
-                "timeupdated": "1724644875"
+                "timeupdated": "1724732079"
             },
             "rc-retail": {
                 "buildid": "14901462",
@@ -390,7 +390,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24952202,
-    "_sha": "c30a602ffa77e6ea6a319831b61eab1eace0333f",
+    "_change_number": 24952288,
+    "_sha": "c5720d26a13fd3c08ab21294073d0324d611d448",
     "_size": 10269
 }
