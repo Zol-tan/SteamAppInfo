@@ -2635,9 +2635,9 @@
             "timeupdated": "1488503304"
         },
         "alpha": {
-            "buildid": "15412287",
+            "buildid": "15509430",
             "pwdrequired": "1",
-            "timeupdated": "1724004733"
+            "timeupdated": "1724785503"
         },
         "beta": {
             "buildid": "15412127",
@@ -3800,14 +3800,14 @@
             "timeupdated": "1713813913"
         },
         "nighly": {
-            "buildid": "15505849",
+            "buildid": "15509315",
             "pwdrequired": "1",
-            "timeupdated": "1724764681"
+            "timeupdated": "1724784768"
         },
         "nighly_shack": {
-            "buildid": "15505849",
+            "buildid": "15509315",
             "pwdrequired": "1",
-            "timeupdated": "1724764714"
+            "timeupdated": "1724784781"
         },
         "shack": {
             "buildid": "14629990",
@@ -7502,9 +7502,9 @@
             "timeupdated": "1723039622"
         },
         "staging": {
-            "buildid": "15496763",
+            "buildid": "15509470",
             "pwdrequired": "1",
-            "timeupdated": "1724698605"
+            "timeupdated": "1724785744"
         }
     },
     "1697660": {
