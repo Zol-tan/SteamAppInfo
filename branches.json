@@ -2878,11 +2878,6 @@
             "description": "Public Beta",
             "timeupdated": "1690291612"
         },
-        "development": {
-            "buildid": "11783207",
-            "pwdrequired": "1",
-            "timeupdated": "1690293238"
-        },
         "experimental": {
             "buildid": "11782930",
             "timeupdated": "1690291621"
@@ -2966,6 +2961,11 @@
             "buildid": "9250138",
             "description": "ov",
             "timeupdated": "1664008976"
+        },
+        "development": {
+            "buildid": "15506343",
+            "pwdrequired": "1",
+            "timeupdated": "1724767606"
         }
     },
     "530870": {
@@ -7036,9 +7036,9 @@
             "timeupdated": "1724763924"
         },
         "staging": {
-            "buildid": "15495461",
+            "buildid": "15506365",
             "pwdrequired": "1",
-            "timeupdated": "1724690543"
+            "timeupdated": "1724767698"
         }
     },
     "1427490": {
@@ -8303,9 +8303,9 @@
             "timeupdated": "1723098137"
         },
         "canary": {
-            "buildid": "15504485",
+            "buildid": "15506554",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1724756465"
+            "timeupdated": "1724768605"
         },
         "hotfix": {
             "buildid": "15353459",
