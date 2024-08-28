@@ -1090,8 +1090,8 @@
             "timeupdated": "1724054193"
         },
         "staging": {
-            "buildid": "15519833",
-            "timeupdated": "1724856237"
+            "buildid": "15521207",
+            "timeupdated": "1724863892"
         },
         "staging-debug": {
             "buildid": "15519857",
@@ -6108,9 +6108,9 @@
             "timeupdated": "1679858724"
         },
         "standalone": {
-            "buildid": "9922341",
+            "buildid": "15521154",
             "pwdrequired": "1",
-            "timeupdated": "1668226427"
+            "timeupdated": "1724863572"
         },
         "upcoming": {
             "buildid": "15507127",
@@ -8163,9 +8163,9 @@
             "timeupdated": "1666213435"
         },
         "beta": {
-            "buildid": "15520725",
+            "buildid": "15521185",
             "description": "beta",
-            "timeupdated": "1724861014"
+            "timeupdated": "1724863785"
         }
     },
     "1978540": {},
