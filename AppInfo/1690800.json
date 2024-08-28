@@ -160,9 +160,9 @@
                     "download": "33DEC1CBD303828A8F9A7DF931B53522"
                 },
                 "nightly": {
-                    "gid": "4EC2ECCBAACEFE83A143B1474FB5D58A",
-                    "size": "29E911ED7AB1873D429B6BC90E1A9088",
-                    "download": "8132114FD0DB39FF93D626EB3D0EFBEC"
+                    "gid": "149089F6874C6F7153F8696BAAA04F90",
+                    "size": "CA8384D2366856D08AC15138271AFA31",
+                    "download": "92E4E66A16A99E387F1880AEF71A4BA6"
                 },
                 "patching": {
                     "gid": "23C7CE162670264ADCDCF3EBA36FBD74",
@@ -360,9 +360,9 @@
                 "timeupdated": "1724663424"
             },
             "nightly": {
-                "buildid": "15511698",
+                "buildid": "15524740",
                 "pwdrequired": "1",
-                "timeupdated": "1724801485"
+                "timeupdated": "1724888345"
             },
             "patching": {
                 "buildid": "15459929",
@@ -382,7 +382,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24980651,
-    "_sha": "66d8b93eebad00f5fe634a683708b3e03f6d88c4",
+    "_change_number": 24984230,
+    "_sha": "bf9c6c8b0fc0ce98bbd3d325b8632bb58a4d7bb5",
     "_size": 10368
 }
