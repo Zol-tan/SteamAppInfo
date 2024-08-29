@@ -2086,9 +2086,9 @@
             "timeupdated": "1724766928"
         },
         "squad_release": {
-            "buildid": "15446422",
+            "buildid": "15529390",
             "pwdrequired": "1",
-            "timeupdated": "1724236745"
+            "timeupdated": "1724922830"
         },
         "squad_testing": {
             "buildid": "14800320",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15520463",
+            "buildid": "15529398",
             "pwdrequired": "1",
-            "timeupdated": "1724859524"
+            "timeupdated": "1724922864"
         },
         "lionbridge_qa": {
             "buildid": "15518845",
