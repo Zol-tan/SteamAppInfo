@@ -4774,9 +4774,9 @@
             "timeupdated": "1718957378"
         },
         "117_main": {
-            "buildid": "15501097",
+            "buildid": "15518081",
             "pwdrequired": "1",
-            "timeupdated": "1724778420"
+            "timeupdated": "1724923561"
         },
         "117_precheck": {
             "buildid": "14883914",
@@ -4809,9 +4809,9 @@
             "timeupdated": "1722934549"
         },
         "daily_main": {
-            "buildid": "15501097",
+            "buildid": "15518081",
             "pwdrequired": "1",
-            "timeupdated": "1724778437"
+            "timeupdated": "1724923573"
         },
         "dq_functional": {
             "buildid": "15518845",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15529398",
+            "buildid": "15529540",
             "pwdrequired": "1",
-            "timeupdated": "1724922864"
+            "timeupdated": "1724923682"
         },
         "lionbridge_qa": {
             "buildid": "15518845",
@@ -5021,9 +5021,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15525369",
+            "buildid": "15529519",
             "pwdrequired": "1",
-            "timeupdated": "1724893499"
+            "timeupdated": "1724923611"
         },
         "uat_tct": {
             "buildid": "9972864",
