@@ -2494,9 +2494,9 @@
             "timeupdated": "1724989615"
         },
         "nightly-test": {
-            "buildid": "15528478",
+            "buildid": "15541302",
             "pwdrequired": "1",
-            "timeupdated": "1724918070"
+            "timeupdated": "1725003236"
         },
         "nightly-trunk": {
             "buildid": "15539733",
@@ -6638,9 +6638,9 @@
             "timeupdated": "1724827712"
         },
         "internal-5": {
-            "buildid": "15539796",
+            "buildid": "15541403",
             "pwdrequired": "1",
-            "timeupdated": "1724990593"
+            "timeupdated": "1725003634"
         },
         "internal-6": {
             "buildid": "15504924",
