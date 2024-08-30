@@ -611,9 +611,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "658FF225E13F8A5849FE2C8C4413D1A1",
-                    "size": "DCB0CCC6D50B950661C1ED981278C5CB",
-                    "download": "6A643498581CA1D78959CD53D185A0DA"
+                    "gid": "F0E2BBD27561317167DD192C5C071CEB",
+                    "size": "F25ACC476D307D2C82D151CA8926BB0C",
+                    "download": "1502E8921FCA5B059697778E099E1AD8"
                 },
                 "lionbridge_qa": {
                     "gid": "E399C1A7E635521D84EB784DBB9183AA",
@@ -741,9 +741,9 @@
                     "download": "69420040302A60AAA6E82E9DBA645001"
                 },
                 "latest": {
-                    "gid": "79B65C0CFFBF0325E7A5E734B47068B8",
-                    "size": "3E9A4101DEDF4B5310E77BAE4DCF3B80",
-                    "download": "F7180F8430F3E74CB5B2E7EFD71573CC"
+                    "gid": "CF2442B8D8FEEE664A4F4FF8D50E89BD",
+                    "size": "23AEE307EFD48F1FAA06E01CCD02B093",
+                    "download": "1CE3DC08252D825A069CC5BE5CC4EE97"
                 },
                 "lionbridge_qa": {
                     "gid": "FC5CFF96269F978BBB99F67AB2286102",
@@ -871,8 +871,8 @@
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
                 "latest": {
-                    "gid": "BC92BCA7C5666DF011EE27F546511F48",
-                    "size": "D99FB32CFD9EB4C6BB029453FC84B02B",
+                    "gid": "63D8BA07D22A14DB76D5F6AF738E20B2",
+                    "size": "4D097CDBE48E4252562588EAF9F8CE3B",
                     "download": "0D42C3F8CAA54BAB5890045E947C9250"
                 },
                 "lionbridge_qa": {
@@ -1123,9 +1123,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15537418",
+                "buildid": "15538766",
                 "pwdrequired": "1",
-                "timeupdated": "1724970901"
+                "timeupdated": "1724982165"
             },
             "lionbridge_qa": {
                 "buildid": "15518845",
@@ -1165,7 +1165,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25001528,
-    "_sha": "771568cd63f7fc1088205f402badf97b3c3e909c",
+    "_change_number": 25003319,
+    "_sha": "f95aad55330501ebaa23f7b8660a28620fbb799c",
     "_size": 33598
 }
