@@ -2494,9 +2494,9 @@
             "timeupdated": "1725003236"
         },
         "nightly-trunk": {
-            "buildid": "15539733",
+            "buildid": "15551735",
             "pwdrequired": "1",
-            "timeupdated": "1724990154"
+            "timeupdated": "1725074903"
         },
         "rc-retail": {
             "buildid": "14901462",
@@ -5779,9 +5779,9 @@
             "timeupdated": "1725058410"
         },
         "nightly": {
-            "buildid": "15539576",
+            "buildid": "15551784",
             "pwdrequired": "1",
-            "timeupdated": "1724989010"
+            "timeupdated": "1725075412"
         }
     },
     "996600": {
@@ -7993,9 +7993,9 @@
             "timeupdated": "1712652887"
         },
         "experimental": {
-            "buildid": "15540142",
+            "buildid": "15551773",
             "pwdrequired": "1",
-            "timeupdated": "1724993909"
+            "timeupdated": "1725075323"
         },
         "internal": {
             "buildid": "15550016",
