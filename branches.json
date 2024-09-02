@@ -3044,9 +3044,9 @@
             "timeupdated": "1720192005"
         },
         "steamtest": {
-            "buildid": "14745100",
+            "buildid": "15569580",
             "pwdrequired": "1",
-            "timeupdated": "1718645574"
+            "timeupdated": "1725302024"
         },
         "steamtest2": {
             "buildid": "14722823",
@@ -3623,9 +3623,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15560591",
+            "buildid": "15570047",
             "description": "beta branch",
-            "timeupdated": "1725215241"
+            "timeupdated": "1725301719"
         }
     },
     "604100": {},
