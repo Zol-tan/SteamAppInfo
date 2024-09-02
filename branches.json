@@ -4367,9 +4367,9 @@
             "timeupdated": "1725061820"
         },
         "astromain_su": {
-            "buildid": "15558622",
+            "buildid": "15565714",
             "pwdrequired": "1",
-            "timeupdated": "1725180193"
+            "timeupdated": "1725272278"
         },
         "astrortx_dailies": {
             "buildid": "15156403",
@@ -7011,9 +7011,9 @@
             "timeupdated": "1667306775"
         },
         "benchmark2": {
-            "buildid": "15564573",
+            "buildid": "15565853",
             "pwdrequired": "1",
-            "timeupdated": "1725265120"
+            "timeupdated": "1725273031"
         },
         "closed-beta": {
             "buildid": "15473965",
