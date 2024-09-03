@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -57,9 +58,9 @@
                     "download": "204743760"
                 },
                 "staging": {
-                    "gid": "7521382765149000223",
+                    "gid": "3368461262856495458",
                     "size": "389405531",
-                    "download": "204744864"
+                    "download": "204745808"
                 }
             },
             "encryptedmanifests": {
@@ -186,9 +187,9 @@
                     "download": "200257728"
                 },
                 "staging": {
-                    "gid": "4752968185681792865",
+                    "gid": "2506236136805444008",
                     "size": "436222085",
-                    "download": "200256256"
+                    "download": "200257552"
                 }
             },
             "encryptedmanifests": {
@@ -312,9 +313,9 @@
                     "download": "1732858416"
                 },
                 "staging": {
-                    "gid": "7136119945681489287",
+                    "gid": "3715742895373383622",
                     "size": "6268093806",
-                    "download": "1732854720"
+                    "download": "1732878720"
                 }
             },
             "encryptedmanifests": {
@@ -505,8 +506,8 @@
                 "timeupdated": "1725381627"
             },
             "staging": {
-                "buildid": "15581205",
-                "timeupdated": "1725387066"
+                "buildid": "15583497",
+                "timeupdated": "1725405379"
             },
             "staging-debug": {
                 "buildid": "15581216",
@@ -526,7 +527,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25064523,
-    "_sha": "a16a8c8fbebac2b77682af1d1437b033c82d52eb",
-    "_size": 14670
+    "_change_number": 25065109,
+    "_sha": "2fac2ac5e7c264754bf5c7934bc16bfac5931ba7",
+    "_size": 14693
 }
