@@ -3800,9 +3800,9 @@
             "timeupdated": "1725394870"
         },
         "nighly_shack": {
-            "buildid": "15581393",
+            "buildid": "15582236",
             "pwdrequired": "1",
-            "timeupdated": "1725388491"
+            "timeupdated": "1725394959"
         },
         "shack": {
             "buildid": "15510931",
@@ -5774,9 +5774,9 @@
             "timeupdated": "1725318069"
         },
         "qa-testing": {
-            "buildid": "15579777",
+            "buildid": "15560966",
             "pwdrequired": "1",
-            "timeupdated": "1725379628"
+            "timeupdated": "1725395157"
         },
         "nightly": {
             "buildid": "15562979",
