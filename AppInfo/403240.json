@@ -169,9 +169,9 @@
                     "download": "53AAF23774E27BAB23D269F37918E9BD"
                 },
                 "squad_main": {
-                    "gid": "D15CC454E87519995FBC72F7EE019192",
-                    "size": "A53372AF2E199C00E626B8B9A442905E",
-                    "download": "8041866BDDB2B44582712DCAB8DD5EB9"
+                    "gid": "531DC8548C5110D8BA4BD31E83B74B53",
+                    "size": "5D84064BD36B6421DD715021763ED86B",
+                    "download": "0425C8033058EBDC8C5E87C56908CD63"
                 },
                 "squad_release": {
                     "gid": "C822A7B75D29F772F52F1CE1D247D30B",
@@ -255,9 +255,9 @@
                     "download": "032743F9148AF82B1A59A7D8A399E340"
                 },
                 "squad_main": {
-                    "gid": "AD64A2D1F38C598A9E37703E3669132B",
-                    "size": "BD25FDC1552BEFBD7CCE0C0C8F7B4CD3",
-                    "download": "1C01102393A9A575860572B3F0232D9B"
+                    "gid": "F5C4E66E7DA0BC79106402A64A609D6C",
+                    "size": "38E137A5263F9A52D924EE4DA16C2351",
+                    "download": "E4E32F5F0BB98EA8A2DB7F4FF5113BBE"
                 },
                 "squad_release": {
                     "gid": "CD7C0E7ADB5E831E72B0EECA621F24C8",
@@ -395,9 +395,9 @@
                 "timeupdated": "1724790219"
             },
             "squad_main": {
-                "buildid": "15566774",
+                "buildid": "15577742",
                 "pwdrequired": "1",
-                "timeupdated": "1725278987"
+                "timeupdated": "1725367240"
             },
             "squad_release": {
                 "buildid": "15529951",
@@ -437,7 +437,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25042011,
-    "_sha": "0b344f489ad0d3da524fbcdf3e5e74170a8e11ba",
+    "_change_number": 25057172,
+    "_sha": "589f9ec9f2642b60174a51583b51c98662e03a15",
     "_size": 11703
 }
