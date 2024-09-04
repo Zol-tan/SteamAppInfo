@@ -2216,9 +2216,9 @@
             "timeupdated": "1725250247"
         },
         "qa-shipping-h": {
-            "buildid": "15587488",
+            "buildid": "15588406",
             "pwdrequired": "1",
-            "timeupdated": "1725438215"
+            "timeupdated": "1725443150"
         },
         "qa-shipping-hf": {
             "buildid": "14424729",
@@ -5016,9 +5016,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15587114",
+            "buildid": "15588441",
             "pwdrequired": "1",
-            "timeupdated": "1725435839"
+            "timeupdated": "1725443374"
         },
         "uat_tct": {
             "buildid": "9972864",
