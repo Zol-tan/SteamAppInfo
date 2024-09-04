@@ -1085,9 +1085,9 @@
             "timeupdated": "1725441959"
         },
         "release-debug": {
-            "buildid": "15580306",
+            "buildid": "15588178",
             "pwdrequired": "1",
-            "timeupdated": "1725381627"
+            "timeupdated": "1725442053"
         },
         "staging": {
             "buildid": "15583821",
@@ -2454,9 +2454,9 @@
             "timeupdated": "1725429983"
         },
         "4coreqa": {
-            "buildid": "15571660",
+            "buildid": "15588220",
             "pwdrequired": "1",
-            "timeupdated": "1725341384"
+            "timeupdated": "1725442207"
         },
         "5coreqa": {
             "buildid": "14395890",
@@ -4921,9 +4921,9 @@
             "timeupdated": "1723764963"
         },
         "uat_content": {
-            "buildid": "15588119",
+            "buildid": "15588182",
             "pwdrequired": "1",
-            "timeupdated": "1725441801"
+            "timeupdated": "1725442064"
         },
         "uat_content_pt": {
             "buildid": "14783396",
@@ -4961,9 +4961,9 @@
             "timeupdated": "1724246373"
         },
         "uat_featuretest5": {
-            "buildid": "15587776",
+            "buildid": "15588261",
             "pwdrequired": "1",
-            "timeupdated": "1725439898"
+            "timeupdated": "1725442386"
         },
         "uat_featuretest6": {
             "buildid": "15585587",
