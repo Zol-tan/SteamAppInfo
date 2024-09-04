@@ -2221,9 +2221,9 @@
             "timeupdated": "1725250247"
         },
         "qa-shipping-h": {
-            "buildid": "15584005",
+            "buildid": "15585219",
             "pwdrequired": "1",
-            "timeupdated": "1725409655"
+            "timeupdated": "1725420228"
         },
         "qa-shipping-hf": {
             "buildid": "14424729",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15584393",
+            "buildid": "15585287",
             "pwdrequired": "1",
-            "timeupdated": "1725413121"
+            "timeupdated": "1725420944"
         },
         "lionbridge_qa": {
             "buildid": "15538338",
@@ -5744,9 +5744,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15584894",
+            "buildid": "15585253",
             "pwdrequired": "1",
-            "timeupdated": "1725417370"
+            "timeupdated": "1725420580"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
