@@ -1660,8 +1660,8 @@
     },
     "354060": {
         "public": {
-            "buildid": "14451669",
-            "timeupdated": "1716364693"
+            "buildid": "15585973",
+            "timeupdated": "1725439600"
         },
         "livepreview": {
             "buildid": "15585973",
@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15586589",
+            "buildid": "15587660",
             "pwdrequired": "1",
-            "timeupdated": "1725432812"
+            "timeupdated": "1725439335"
         },
         "lionbridge_qa": {
             "buildid": "15584210",
