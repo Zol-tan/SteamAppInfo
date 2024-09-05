@@ -4961,9 +4961,9 @@
             "timeupdated": "1724246373"
         },
         "uat_featuretest5": {
-            "buildid": "15600069",
+            "buildid": "15600180",
             "pwdrequired": "1",
-            "timeupdated": "1725522159"
+            "timeupdated": "1725522827"
         },
         "uat_featuretest6": {
             "buildid": "15596214",
@@ -5016,9 +5016,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15599555",
+            "buildid": "15600306",
             "pwdrequired": "1",
-            "timeupdated": "1725519392"
+            "timeupdated": "1725523411"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -8137,9 +8137,9 @@
             "timeupdated": "1725363335"
         },
         "testing": {
-            "buildid": "15583204",
+            "buildid": "15593439",
             "pwdrequired": "1",
-            "timeupdated": "1725434014"
+            "timeupdated": "1725523284"
         },
         "testing2": {
             "buildid": "15511994",
