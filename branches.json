@@ -3009,9 +3009,9 @@
             "timeupdated": "1725316095"
         },
         "eleononly": {
-            "buildid": "15602190",
+            "buildid": "15606914",
             "pwdrequired": "1",
-            "timeupdated": "1725533817"
+            "timeupdated": "1725561146"
         },
         "eleontest": {
             "buildid": "15602190",
@@ -3618,9 +3618,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15606833",
+            "buildid": "15606871",
             "description": "beta branch",
-            "timeupdated": "1725560632"
+            "timeupdated": "1725560857"
         }
     },
     "604100": {},
