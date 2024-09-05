@@ -6623,9 +6623,9 @@
             "timeupdated": "1724916691"
         },
         "internal-3": {
-            "buildid": "15602731",
+            "buildid": "15605516",
             "pwdrequired": "1",
-            "timeupdated": "1725537242"
+            "timeupdated": "1725552323"
         },
         "internal-4": {
             "buildid": "15514995",
@@ -7703,9 +7703,9 @@
             "timeupdated": "1723196326"
         },
         "beta": {
-            "buildid": "15296846",
+            "buildid": "15605378",
             "description": "Next version beta branch",
-            "timeupdated": "1723105737"
+            "timeupdated": "1725553076"
         }
     },
     "1816360": {
