@@ -3618,9 +3618,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15593985",
+            "buildid": "15598310",
             "description": "beta branch",
-            "timeupdated": "1725474578"
+            "timeupdated": "1725508204"
         }
     },
     "604100": {},
@@ -4495,9 +4495,9 @@
             "timeupdated": "1724979423"
         },
         "release": {
-            "buildid": "15597195",
+            "buildid": "15598336",
             "pwdrequired": "1",
-            "timeupdated": "1725498078"
+            "timeupdated": "1725508417"
         },
         "staging": {
             "buildid": "15563599",
@@ -5779,9 +5779,9 @@
             "timeupdated": "1725395157"
         },
         "nightly": {
-            "buildid": "15562979",
+            "buildid": "15598316",
             "pwdrequired": "1",
-            "timeupdated": "1725249017"
+            "timeupdated": "1725508222"
         }
     },
     "996600": {
@@ -5889,8 +5889,8 @@
     },
     "1035540": {
         "public": {
-            "buildid": "15597168",
-            "timeupdated": "1725497947"
+            "buildid": "15598345",
+            "timeupdated": "1725508615"
         },
         "beta": {
             "buildid": "5299314",
@@ -8003,9 +8003,9 @@
             "timeupdated": "1712652887"
         },
         "experimental": {
-            "buildid": "15584160",
+            "buildid": "15598302",
             "pwdrequired": "1",
-            "timeupdated": "1725411026"
+            "timeupdated": "1725508118"
         },
         "internal": {
             "buildid": "15596177",
