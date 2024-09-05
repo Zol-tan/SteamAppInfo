@@ -2071,9 +2071,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15590813",
+            "buildid": "15602627",
             "pwdrequired": "1",
-            "timeupdated": "1725456547"
+            "timeupdated": "1725536536"
         },
         "squad_release": {
             "buildid": "15598634",
@@ -4249,9 +4249,9 @@
             "timeupdated": "1713239022"
         },
         "experimental": {
-            "buildid": "15599638",
+            "buildid": "15602451",
             "pwdrequired": "1",
-            "timeupdated": "1725525983"
+            "timeupdated": "1725536182"
         },
         "experimental_staging": {
             "buildid": "15602451",
