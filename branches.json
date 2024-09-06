@@ -1090,8 +1090,8 @@
             "timeupdated": "1725608367"
         },
         "staging": {
-            "buildid": "15613016",
-            "timeupdated": "1725608777"
+            "buildid": "15616842",
+            "timeupdated": "1725629302"
         },
         "staging-debug": {
             "buildid": "15613024",
@@ -3867,9 +3867,9 @@
             "timeupdated": "1720556043"
         },
         "testing": {
-            "buildid": "15572694",
+            "buildid": "15615124",
             "pwdrequired": "1",
-            "timeupdated": "1725339800"
+            "timeupdated": "1725627818"
         }
     },
     "630230": {
@@ -5223,9 +5223,9 @@
             "timeupdated": "1671445984"
         },
         "newbuild-release": {
-            "buildid": "15575850",
+            "buildid": "15616716",
             "pwdrequired": "1",
-            "timeupdated": "1725355803"
+            "timeupdated": "1725628685"
         },
         "test": {
             "buildid": "14683906",
