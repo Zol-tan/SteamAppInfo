@@ -4401,8 +4401,8 @@
     },
     "739590": {
         "public": {
-            "buildid": "15567074",
-            "timeupdated": "1725280954"
+            "buildid": "15615069",
+            "timeupdated": "1725619607"
         },
         "10.0.4": {
             "buildid": "13082430",
@@ -4483,6 +4483,11 @@
             "buildid": "15567074",
             "description": "Beta 11.0.3",
             "timeupdated": "1725280917"
+        },
+        "11.0.4": {
+            "buildid": "15615069",
+            "description": "Beta 11.0.4",
+            "timeupdated": "1725619573"
         },
         "develop": {
             "buildid": "15600096",
