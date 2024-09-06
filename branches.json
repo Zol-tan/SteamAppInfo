@@ -4769,9 +4769,9 @@
             "timeupdated": "1718957378"
         },
         "117_main": {
-            "buildid": "15601896",
+            "buildid": "15613502",
             "pwdrequired": "1",
-            "timeupdated": "1725538519"
+            "timeupdated": "1725618230"
         },
         "117_precheck": {
             "buildid": "14883914",
@@ -4794,9 +4794,9 @@
             "timeupdated": "1718713932"
         },
         "closed_beta_test": {
-            "buildid": "15601896",
+            "buildid": "15613502",
             "pwdrequired": "1",
-            "timeupdated": "1725538530"
+            "timeupdated": "1725618246"
         },
         "current": {
             "buildid": "15193036",
@@ -4804,14 +4804,14 @@
             "timeupdated": "1722934549"
         },
         "daily_main": {
-            "buildid": "15601896",
+            "buildid": "15613502",
             "pwdrequired": "1",
-            "timeupdated": "1725538541"
+            "timeupdated": "1725618276"
         },
         "dq_functional": {
-            "buildid": "15584210",
+            "buildid": "15613502",
             "pwdrequired": "1",
-            "timeupdated": "1725434358"
+            "timeupdated": "1725618924"
         },
         "eac_pgo_use": {
             "buildid": "15518081",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1725611226"
         },
         "lionbridge_qa": {
-            "buildid": "15584210",
+            "buildid": "15613502",
             "pwdrequired": "1",
-            "timeupdated": "1725434381"
+            "timeupdated": "1725618899"
         },
         "m1_test": {
             "buildid": "15326370",
