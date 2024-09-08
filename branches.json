@@ -2479,9 +2479,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15627201",
+            "buildid": "15629252",
             "pwdrequired": "1",
-            "timeupdated": "1725741327"
+            "timeupdated": "1725779546"
         },
         "nightly-test": {
             "buildid": "15628647",
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15629220",
+            "buildid": "15629275",
             "description": "Builds before live",
-            "timeupdated": "1725778973"
+            "timeupdated": "1725779819"
         }
     },
     "1899880": {
