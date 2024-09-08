@@ -45,15 +45,15 @@
                     "size": "2130157052",
                     "download": "627444112"
                 },
-                "public-playtest": {
-                    "gid": "8853197227526971481",
-                    "size": "9507129702",
-                    "download": "2637421104"
-                },
                 "previous": {
                     "gid": "808072036026966968",
                     "size": "10003039748",
                     "download": "2769512224"
+                },
+                "public-playtest": {
+                    "gid": "2936359873728559868",
+                    "size": "11038357729",
+                    "download": "3136305104"
                 }
             },
             "encryptedmanifests": {
@@ -93,15 +93,15 @@
                     "size": "2040092502",
                     "download": "898734816"
                 },
-                "public-playtest": {
-                    "gid": "8061254468708826149",
-                    "size": "2040092502",
-                    "download": "898734816"
-                },
                 "previous": {
                     "gid": "8390477545494154533",
                     "size": "2035766206",
                     "download": "897034288"
+                },
+                "public-playtest": {
+                    "gid": "1221096437105676315",
+                    "size": "2483946460",
+                    "download": "1042112240"
                 }
             },
             "encryptedmanifests": {
@@ -137,11 +137,6 @@
                 "description": " \tPre-release testing branch",
                 "timeupdated": "1692921611"
             },
-            "public-playtest": {
-                "buildid": "12027408",
-                "description": "Public playtesting branch",
-                "timeupdated": "1692948739"
-            },
             "playtest": {
                 "buildid": "15412565",
                 "pwdrequired": "1",
@@ -151,11 +146,16 @@
                 "buildid": "13972701",
                 "description": " \tRollback to previous version",
                 "timeupdated": "1714221325"
+            },
+            "public-playtest": {
+                "buildid": "15631421",
+                "description": "Public playtesting branch",
+                "timeupdated": "1725815450"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25054467,
-    "_sha": "17384d325e7b79acc127aa8216b84ba7a49e4bd1",
-    "_size": 3663
+    "_change_number": 25129929,
+    "_sha": "d5efefae9b3e27a649983a02a97a8df685ef87cf",
+    "_size": 3665
 }
