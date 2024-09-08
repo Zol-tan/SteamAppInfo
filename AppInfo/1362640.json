@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8782624493489751306",
-                    "size": "712823643",
-                    "download": "408396368"
+                    "gid": "6188282974890913844",
+                    "size": "712828237",
+                    "download": "408425008"
                 },
                 "experimental": {
                     "gid": "6188282974890913844",
@@ -58,8 +58,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,danish,dutch,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam,vietnamese",
         "branches": {
             "public": {
-                "buildid": "15596740",
-                "timeupdated": "1725834808"
+                "buildid": "15632781",
+                "timeupdated": "1725836374"
             },
             "dev_testing": {
                 "buildid": "15632781",
@@ -73,7 +73,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25132068,
-    "_sha": "b3ca34b1fd822423f4389633ae96e72d9c2dee5c",
+    "_change_number": 25132101,
+    "_sha": "2605b10267e2dccd6b74db5db847a77729a3d7ae",
     "_size": 1910
 }
