@@ -1132,9 +1132,9 @@
             "timeupdated": "1631361424"
         },
         "release_candidate": {
-            "buildid": "15607162",
+            "buildid": "15641908",
             "pwdrequired": "1",
-            "timeupdated": "1725563057"
+            "timeupdated": "1725908242"
         },
         "release_candidate_community": {
             "buildid": "15607162",
@@ -3790,9 +3790,9 @@
             "timeupdated": "1725907367"
         },
         "nighly_shack": {
-            "buildid": "15607690",
+            "buildid": "15641929",
             "pwdrequired": "1",
-            "timeupdated": "1725566510"
+            "timeupdated": "1725908224"
         },
         "shack": {
             "buildid": "15510931",
@@ -4011,8 +4011,8 @@
     },
     "673990": {
         "public": {
-            "buildid": "15602219",
-            "timeupdated": "1725534075"
+            "buildid": "15641948",
+            "timeupdated": "1725907609"
         },
         "develop": {
             "buildid": "9159013",
@@ -4030,9 +4030,9 @@
             "timeupdated": "1662255290"
         },
         "beta": {
-            "buildid": "15602219",
+            "buildid": "15641948",
             "description": "BETA",
-            "timeupdated": "1725534056"
+            "timeupdated": "1725907570"
         }
     },
     "677100": {
