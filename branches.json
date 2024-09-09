@@ -121,9 +121,9 @@
             "timeupdated": "1723208784"
         },
         "x86-64": {
-            "buildid": "15638515",
+            "buildid": "15640988",
             "description": "Testing 64-bit builds",
-            "timeupdated": "1725886379"
+            "timeupdated": "1725901250"
         }
     },
     "4240": {},
@@ -1085,13 +1085,13 @@
             "timeupdated": "1725788645"
         },
         "staging": {
-            "buildid": "15636711",
-            "timeupdated": "1725874925"
+            "buildid": "15641037",
+            "timeupdated": "1725901528"
         },
         "staging-debug": {
-            "buildid": "15636722",
+            "buildid": "15641059",
             "pwdrequired": "1",
-            "timeupdated": "1725874979"
+            "timeupdated": "1725901614"
         },
         "test": {
             "buildid": "15110119",
@@ -1169,9 +1169,9 @@
             "timeupdated": "1723735214"
         },
         "testing_trunk": {
-            "buildid": "15592091",
+            "buildid": "15640946",
             "pwdrequired": "1",
-            "timeupdated": "1725463490"
+            "timeupdated": "1725901052"
         },
         "testing_branch": {
             "buildid": "15633884",
@@ -2196,9 +2196,9 @@
             "timeupdated": "1725453598"
         },
         "qa-debug-h": {
-            "buildid": "15621255",
+            "buildid": "15640910",
             "pwdrequired": "1",
-            "timeupdated": "1725658467"
+            "timeupdated": "1725900868"
         },
         "qa-debug-hf": {
             "buildid": "14426462",
