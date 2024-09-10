@@ -2066,9 +2066,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15650865",
+            "buildid": "15651369",
             "pwdrequired": "1",
-            "timeupdated": "1725970022"
+            "timeupdated": "1725972860"
         },
         "squad_release": {
             "buildid": "15598634",
@@ -5016,9 +5016,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15648100",
+            "buildid": "15651365",
             "pwdrequired": "1",
-            "timeupdated": "1725955110"
+            "timeupdated": "1725972842"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -7036,9 +7036,9 @@
             "timeupdated": "1725527813"
         },
         "staging": {
-            "buildid": "15651125",
+            "buildid": "15651572",
             "pwdrequired": "1",
-            "timeupdated": "1725971466"
+            "timeupdated": "1725973923"
         }
     },
     "1427490": {
