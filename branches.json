@@ -1085,13 +1085,13 @@
             "timeupdated": "1725788645"
         },
         "staging": {
-            "buildid": "15646238",
-            "timeupdated": "1725939443"
+            "buildid": "15646410",
+            "timeupdated": "1725941287"
         },
         "staging-debug": {
-            "buildid": "15646249",
+            "buildid": "15646421",
             "pwdrequired": "1",
-            "timeupdated": "1725939528"
+            "timeupdated": "1725941369"
         },
         "test": {
             "buildid": "15110119",
@@ -2196,9 +2196,9 @@
             "timeupdated": "1725453598"
         },
         "qa-debug-h": {
-            "buildid": "15644027",
+            "buildid": "15646448",
             "pwdrequired": "1",
-            "timeupdated": "1725921982"
+            "timeupdated": "1725941602"
         },
         "qa-debug-hf": {
             "buildid": "14426462",
@@ -2474,9 +2474,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15632667",
+            "buildid": "15646347",
             "pwdrequired": "1",
-            "timeupdated": "1725834153"
+            "timeupdated": "1725940617"
         },
         "nightly-test": {
             "buildid": "15635575",
@@ -2484,9 +2484,9 @@
             "timeupdated": "1725868026"
         },
         "nightly-trunk": {
-            "buildid": "15634351",
+            "buildid": "15646486",
             "pwdrequired": "1",
-            "timeupdated": "1725855339"
+            "timeupdated": "1725941877"
         },
         "rc-retail": {
             "buildid": "14901462",
@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15646326",
+            "buildid": "15646348",
             "pwdrequired": "1",
-            "timeupdated": "1725940444"
+            "timeupdated": "1725940622"
         },
         "lionbridge_qa": {
             "buildid": "15613502",
@@ -5016,9 +5016,9 @@
             "timeupdated": "1717710954"
         },
         "uat_release": {
-            "buildid": "15643724",
+            "buildid": "15646433",
             "pwdrequired": "1",
-            "timeupdated": "1725920072"
+            "timeupdated": "1725941492"
         },
         "uat_tct": {
             "buildid": "9972864",

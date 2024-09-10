@@ -166,9 +166,9 @@
                     "download": "E701BE763E22CF7EA270EFF7201A8A4A"
                 },
                 "nightly-stable": {
-                    "gid": "ABC9A55BC6A35A90DD88382D09E58D2D",
-                    "size": "FBD40210549BBEA6C4491F832DEF4B78",
-                    "download": "C34A392E0533433F83AAF21F06B462EE"
+                    "gid": "CC3CE48C8CDFA62EA5ED1B70177C83E7",
+                    "size": "2B21856BFCB3ADBEAB7F0BC52AD99847",
+                    "download": "130573CD5107732A7F8A0E70A3C737F7"
                 },
                 "nightly-test": {
                     "gid": "3C356ECEC615FF5A462FC067124700FF",
@@ -176,9 +176,9 @@
                     "download": "90C35FA92322AFAD2EFC2C4CB7A04367"
                 },
                 "nightly-trunk": {
-                    "gid": "3A4FBEA2B07CB9EC549BBE6CF64E92DB",
-                    "size": "B5C32CA5B2802DA0D606AB97E7D41378",
-                    "download": "BBC61D4B9A3829386ACAFAF94863EC77"
+                    "gid": "574A76F950A7275C9CADECF4F19DF202",
+                    "size": "01E714A11BB221D4FD94B7CC7044CC91",
+                    "download": "C09BB99970576A3D7C09157F47677849"
                 },
                 "rc-retail": {
                     "gid": "8F14981CA20F49EA2841561579D811AA",
@@ -358,9 +358,9 @@
                 "timeupdated": "1717349115"
             },
             "nightly-stable": {
-                "buildid": "15632667",
+                "buildid": "15646347",
                 "pwdrequired": "1",
-                "timeupdated": "1725834153"
+                "timeupdated": "1725940617"
             },
             "nightly-test": {
                 "buildid": "15635575",
@@ -368,9 +368,9 @@
                 "timeupdated": "1725868026"
             },
             "nightly-trunk": {
-                "buildid": "15634351",
+                "buildid": "15646486",
                 "pwdrequired": "1",
-                "timeupdated": "1725855339"
+                "timeupdated": "1725941877"
             },
             "rc-retail": {
                 "buildid": "14901462",
@@ -390,7 +390,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25136000,
-    "_sha": "fa4e0fe3bb65f5452489f65baae3bca9e8a207ea",
+    "_change_number": 25150771,
+    "_sha": "ffd305a2969048ec1e4c60e7214e746d76a92324",
     "_size": 10269
 }
