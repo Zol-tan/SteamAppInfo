@@ -1085,13 +1085,13 @@
             "timeupdated": "1725788645"
         },
         "staging": {
-            "buildid": "15643361",
-            "timeupdated": "1725917199"
+            "buildid": "15645208",
+            "timeupdated": "1725931311"
         },
         "staging-debug": {
-            "buildid": "15643377",
+            "buildid": "15645218",
             "pwdrequired": "1",
-            "timeupdated": "1725917282"
+            "timeupdated": "1725931406"
         },
         "test": {
             "buildid": "15110119",
@@ -2181,9 +2181,9 @@
             "timeupdated": "1723037853"
         },
         "hordetesting": {
-            "buildid": "15621940",
+            "buildid": "15644902",
             "pwdrequired": "1",
-            "timeupdated": "1725664103"
+            "timeupdated": "1725928756"
         },
         "mechanic-test": {
             "buildid": "13504000",
@@ -2211,9 +2211,9 @@
             "timeupdated": "1725250247"
         },
         "qa-shipping-h": {
-            "buildid": "15621659",
+            "buildid": "15644852",
             "pwdrequired": "1",
-            "timeupdated": "1725661746"
+            "timeupdated": "1725928322"
         },
         "qa-shipping-hf": {
             "buildid": "14424729",
@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15643868",
+            "buildid": "15645156",
             "pwdrequired": "1",
-            "timeupdated": "1725921049"
+            "timeupdated": "1725930950"
         },
         "lionbridge_qa": {
             "buildid": "15613502",
@@ -5556,9 +5556,9 @@
             "timeupdated": "1725829521"
         },
         "staging": {
-            "buildid": "15631885",
+            "buildid": "15644882",
             "pwdrequired": "1",
-            "timeupdated": "1725822130"
+            "timeupdated": "1725928612"
         }
     },
     "928530": {
@@ -5739,9 +5739,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15643897",
+            "buildid": "15644973",
             "pwdrequired": "1",
-            "timeupdated": "1725921225"
+            "timeupdated": "1725929374"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
@@ -6844,13 +6844,13 @@
     },
     "1380950": {
         "public": {
-            "buildid": "15175726",
-            "timeupdated": "1722137227"
+            "buildid": "15645104",
+            "timeupdated": "1725931082"
         },
         "sigma": {
-            "buildid": "15635357",
+            "buildid": "15645104",
             "description": "Wave Defense Testing",
-            "timeupdated": "1725866363"
+            "timeupdated": "1725930533"
         }
     },
     "1382420": {
@@ -7477,9 +7477,9 @@
             "timeupdated": "1724082466"
         },
         "internal6": {
-            "buildid": "15622603",
+            "buildid": "15644987",
             "pwdrequired": "1",
-            "timeupdated": "1725670313"
+            "timeupdated": "1725929484"
         },
         "internal7": {
             "buildid": "15473263",
@@ -7976,9 +7976,9 @@
             "timeupdated": "1725885731"
         },
         "internal": {
-            "buildid": "15634807",
+            "buildid": "15645011",
             "pwdrequired": "1",
-            "timeupdated": "1725860940"
+            "timeupdated": "1725929722"
         },
         "stable": {
             "buildid": "15399250",
@@ -8013,9 +8013,9 @@
             "timeupdated": "1725882689"
         },
         "internal": {
-            "buildid": "15634515",
+            "buildid": "15644744",
             "pwdrequired": "1",
-            "timeupdated": "1725857548"
+            "timeupdated": "1725927585"
         },
         "localization": {
             "buildid": "14154614",
