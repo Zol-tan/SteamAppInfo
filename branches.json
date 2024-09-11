@@ -7512,9 +7512,9 @@
             "timeupdated": "1725309546"
         },
         "nightly": {
-            "buildid": "15657283",
+            "buildid": "15670297",
             "pwdrequired": "1",
-            "timeupdated": "1726011177"
+            "timeupdated": "1726097667"
         },
         "patching": {
             "buildid": "15459929",
@@ -8028,9 +8028,9 @@
             "timeupdated": "1726043926"
         },
         "internal": {
-            "buildid": "15657415",
+            "buildid": "15670238",
             "pwdrequired": "1",
-            "timeupdated": "1726012062"
+            "timeupdated": "1726097194"
         },
         "localization": {
             "buildid": "14154614",
