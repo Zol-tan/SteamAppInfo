@@ -4264,9 +4264,9 @@
             "timeupdated": "1718701842"
         },
         "release_candidate": {
-            "buildid": "15656065",
+            "buildid": "15660238",
             "pwdrequired": "1",
-            "timeupdated": "1726001594"
+            "timeupdated": "1726035532"
         }
     },
     "713970": {
@@ -5739,9 +5739,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15657291",
+            "buildid": "15660107",
             "pwdrequired": "1",
-            "timeupdated": "1726011202"
+            "timeupdated": "1726034289"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
