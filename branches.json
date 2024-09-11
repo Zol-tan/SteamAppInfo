@@ -2071,9 +2071,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15651369",
+            "buildid": "15663647",
             "pwdrequired": "1",
-            "timeupdated": "1725972860"
+            "timeupdated": "1726055976"
         },
         "squad_release": {
             "buildid": "15598634",
@@ -2186,9 +2186,9 @@
             "timeupdated": "1723037853"
         },
         "hordetesting": {
-            "buildid": "15655153",
+            "buildid": "15663754",
             "pwdrequired": "1",
-            "timeupdated": "1725995041"
+            "timeupdated": "1726056629"
         },
         "mechanic-test": {
             "buildid": "13504000",
@@ -2338,6 +2338,11 @@
             "buildid": "5884600",
             "pwdrequired": "1",
             "timeupdated": "1606374973"
+        },
+        "anti_ddos": {
+            "buildid": "15663578",
+            "pwdrequired": "1",
+            "timeupdated": "1726055915"
         },
         "beta": {
             "buildid": "15320241",
@@ -4254,9 +4259,9 @@
             "timeupdated": "1726051555"
         },
         "experimental_staging": {
-            "buildid": "15656065",
+            "buildid": "15663904",
             "pwdrequired": "1",
-            "timeupdated": "1726001596"
+            "timeupdated": "1726057371"
         },
         "qa_main_cds": {
             "buildid": "15658786",
@@ -4269,9 +4274,9 @@
             "timeupdated": "1718701842"
         },
         "release_candidate": {
-            "buildid": "15662358",
+            "buildid": "15663904",
             "pwdrequired": "1",
-            "timeupdated": "1726048529"
+            "timeupdated": "1726057369"
         }
     },
     "713970": {
@@ -7034,11 +7039,6 @@
             "buildid": "15578806",
             "pwdrequired": "1",
             "timeupdated": "1725372816"
-        },
-        "closed-beta": {
-            "buildid": "15600600",
-            "pwdrequired": "1",
-            "timeupdated": "1725540360"
         },
         "development": {
             "buildid": "15662688",
