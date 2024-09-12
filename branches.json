@@ -3795,9 +3795,9 @@
             "timeupdated": "1713813913"
         },
         "nighly": {
-            "buildid": "15656185",
+            "buildid": "15682100",
             "pwdrequired": "1",
-            "timeupdated": "1726002406"
+            "timeupdated": "1726171983"
         },
         "nighly_shack": {
             "buildid": "15656185",
@@ -8059,9 +8059,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15680513",
+            "buildid": "15682115",
             "description": "Builds before live",
-            "timeupdated": "1726162087"
+            "timeupdated": "1726172097"
         }
     },
     "1899880": {
