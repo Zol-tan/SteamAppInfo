@@ -6663,9 +6663,9 @@
             "timeupdated": "1724759242"
         },
         "internal-qa": {
-            "buildid": "15652153",
+            "buildid": "15672795",
             "pwdrequired": "1",
-            "timeupdated": "1725977138"
+            "timeupdated": "1726117832"
         },
         "internal-slow": {
             "buildid": "15075007",
@@ -8054,9 +8054,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15671290",
+            "buildid": "15672761",
             "description": "Builds before live",
-            "timeupdated": "1726106129"
+            "timeupdated": "1726117718"
         }
     },
     "1899880": {
