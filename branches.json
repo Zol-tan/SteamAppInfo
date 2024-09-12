@@ -1174,9 +1174,9 @@
             "timeupdated": "1723735214"
         },
         "testing_trunk": {
-            "buildid": "15669918",
+            "buildid": "15683304",
             "pwdrequired": "1",
-            "timeupdated": "1726094600"
+            "timeupdated": "1726179667"
         },
         "testing_branch": {
             "buildid": "15653231",
@@ -2186,9 +2186,9 @@
             "timeupdated": "1723037853"
         },
         "hordetesting": {
-            "buildid": "15675494",
+            "buildid": "15683393",
             "pwdrequired": "1",
-            "timeupdated": "1726135405"
+            "timeupdated": "1726180359"
         },
         "mechanic-test": {
             "buildid": "13504000",
