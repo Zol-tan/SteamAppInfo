@@ -2489,9 +2489,9 @@
             "timeupdated": "1726114200"
         },
         "nightly-test": {
-            "buildid": "15647858",
+            "buildid": "15673957",
             "pwdrequired": "1",
-            "timeupdated": "1725953699"
+            "timeupdated": "1726126452"
         },
         "nightly-trunk": {
             "buildid": "15672407",
@@ -5185,9 +5185,9 @@
             "timeupdated": "1564036086"
         },
         "dlctest": {
-            "buildid": "15671809",
+            "buildid": "15673880",
             "pwdrequired": "1",
-            "timeupdated": "1726116835"
+            "timeupdated": "1726126147"
         }
     },
     "839510": {
