@@ -1056,14 +1056,14 @@
             "timeupdated": "1725956589"
         },
         "aux02": {
-            "buildid": "15694668",
+            "buildid": "15695105",
             "description": "Up and coming",
-            "timeupdated": "1726251833"
+            "timeupdated": "1726254819"
         },
         "aux02-debug": {
-            "buildid": "15694686",
+            "buildid": "15695132",
             "pwdrequired": "1",
-            "timeupdated": "1726251951"
+            "timeupdated": "1726254985"
         },
         "last-month": {
             "buildid": "15416681",
@@ -2201,9 +2201,9 @@
             "timeupdated": "1725453598"
         },
         "qa-debug-h": {
-            "buildid": "15682689",
+            "buildid": "15694979",
             "pwdrequired": "1",
-            "timeupdated": "1726175822"
+            "timeupdated": "1726253871"
         },
         "qa-debug-hf": {
             "buildid": "14426462",
