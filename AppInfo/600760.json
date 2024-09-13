@@ -80,9 +80,9 @@
                     "download": "2082263856"
                 },
                 "beta": {
-                    "gid": "1524541284382274462",
-                    "size": "1075354228",
-                    "download": "594479840"
+                    "gid": "583527294894313749",
+                    "size": "1075360046",
+                    "download": "594477696"
                 }
             }
         },
@@ -113,9 +113,9 @@
                     "download": "2075215584"
                 },
                 "beta": {
-                    "gid": "1614586137825735210",
-                    "size": "1047792413",
-                    "download": "586526064"
+                    "gid": "2570116208226923237",
+                    "size": "1047798231",
+                    "download": "586530688"
                 }
             }
         },
@@ -139,14 +139,14 @@
                 "timeupdated": "1689829236"
             },
             "beta": {
-                "buildid": "15667775",
+                "buildid": "15695429",
                 "description": "beta branch",
-                "timeupdated": "1726079320"
+                "timeupdated": "1726256978"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25179457,
-    "_sha": "a2a78f9759f446c066cc881b9d393a6223117555",
-    "_size": 3245
+    "_change_number": 25216918,
+    "_sha": "d202fbcf3e07aa31cb3512b024a34a3cc8c3ce75",
+    "_size": 3244
 }
