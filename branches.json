@@ -1061,9 +1061,9 @@
             "timeupdated": "1726251833"
         },
         "aux02-debug": {
-            "buildid": "15686921",
+            "buildid": "15694686",
             "pwdrequired": "1",
-            "timeupdated": "1726208139"
+            "timeupdated": "1726251951"
         },
         "last-month": {
             "buildid": "15416681",
@@ -6092,9 +6092,9 @@
             "timeupdated": "1709926570"
         },
         "test": {
-            "buildid": "15692823",
+            "buildid": "15694707",
             "pwdrequired": "1",
-            "timeupdated": "1726241512"
+            "timeupdated": "1726252123"
         },
         "nodecraft": {
             "buildid": "15670340",
@@ -8064,9 +8064,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15694512",
+            "buildid": "15694771",
             "description": "Builds before live",
-            "timeupdated": "1726250713"
+            "timeupdated": "1726252570"
         }
     },
     "1899880": {
