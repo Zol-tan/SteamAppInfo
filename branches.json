@@ -245,9 +245,9 @@
             "timeupdated": "1707007376"
         },
         "beta": {
-            "buildid": "15464353",
+            "buildid": "15697417",
             "pwdrequired": "1",
-            "timeupdated": "1724359006"
+            "timeupdated": "1726271352"
         }
     },
     "17585": {
@@ -1174,9 +1174,9 @@
             "timeupdated": "1723735214"
         },
         "testing_trunk": {
-            "buildid": "15683304",
+            "buildid": "15697400",
             "pwdrequired": "1",
-            "timeupdated": "1726179667"
+            "timeupdated": "1726271132"
         },
         "testing_branch": {
             "buildid": "15653231",
