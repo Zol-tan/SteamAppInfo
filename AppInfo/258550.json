@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -42,9 +43,9 @@
                     "download": "204815488"
                 },
                 "aux02": {
-                    "gid": "8154628341113974505",
-                    "size": "401865120",
-                    "download": "217143664"
+                    "gid": "5201635649550119193",
+                    "size": "406066368",
+                    "download": "219074000"
                 },
                 "last-month": {
                     "gid": "1993231394091508",
@@ -57,9 +58,9 @@
                     "download": "204747200"
                 },
                 "staging": {
-                    "gid": "1277083175629243227",
+                    "gid": "7866952911142947990",
                     "size": "410861795",
-                    "download": "219331104"
+                    "download": "219331136"
                 }
             },
             "encryptedmanifests": {
@@ -114,9 +115,9 @@
                     "download": "777F1E4DD5C68A1669DCD6AC6B789639"
                 },
                 "aux02-debug": {
-                    "gid": "FCCB237F28A9DF2AC5DB88A2C1B135EA",
-                    "size": "752B26A293F94AEB5CBEBC2F0A006564",
-                    "download": "395EBEF7B6F8D427F91C1D85C7D542EC"
+                    "gid": "1AD7A4BD2E41BC94CEDD9C4F4829B33C",
+                    "size": "4087DE4AD91D95163DDE683ACABF7469",
+                    "download": "2FEDA4C061A14619AB69DAFA2C99B929"
                 },
                 "media": {
                     "gid": "5D613D1BC57730AC9E890B546E736C36",
@@ -134,9 +135,9 @@
                     "download": "DEE0123C56A269311512E520CB45CF17"
                 },
                 "staging-debug": {
-                    "gid": "DA150BEFB18C13E140377F4BFE532B6F",
+                    "gid": "F841E31C3B10158F87FDDF6FBE73DBFC",
                     "size": "BB44A683E19352567EB5988DD8C9681C",
-                    "download": "A021F3AF5D497D6DC2BEBE82417EFEE1"
+                    "download": "C14F2D5F1D88F6DEBB2E640E9B7969AC"
                 },
                 "test": {
                     "gid": "E31D99F131C3B7DEC41026ACAEF134D8",
@@ -171,9 +172,9 @@
                     "download": "200337696"
                 },
                 "aux02": {
-                    "gid": "6688374758119764407",
-                    "size": "448786714",
-                    "download": "213156864"
+                    "gid": "7978108701583688866",
+                    "size": "452987314",
+                    "download": "215089216"
                 },
                 "last-month": {
                     "gid": "6861033726498208600",
@@ -186,9 +187,9 @@
                     "download": "200256736"
                 },
                 "staging": {
-                    "gid": "5981832903961245360",
+                    "gid": "9047633324051396628",
                     "size": "457678373",
-                    "download": "214809104"
+                    "download": "214809184"
                 }
             },
             "encryptedmanifests": {
@@ -297,9 +298,9 @@
                     "download": "1738046080"
                 },
                 "aux02": {
-                    "gid": "8959704784558846161",
-                    "size": "7872296800",
-                    "download": "1873436144"
+                    "gid": "4681216781559031675",
+                    "size": "7872420592",
+                    "download": "1873583760"
                 },
                 "last-month": {
                     "gid": "6605989597249556497",
@@ -312,9 +313,9 @@
                     "download": "1733674208"
                 },
                 "staging": {
-                    "gid": "1063280957763643788",
+                    "gid": "7945285471187619639",
                     "size": "6270441803",
-                    "download": "1734000624"
+                    "download": "1734001376"
                 }
             },
             "encryptedmanifests": {
@@ -369,9 +370,9 @@
                     "download": "C6A65CFBE1E5313F96471700F24C323B"
                 },
                 "aux02-debug": {
-                    "gid": "7BDCD646CC292C2703060975E0EFF193",
-                    "size": "A694D363464F2F6FEDF6D02A3BE36823",
-                    "download": "0868B39B71B0658749DED3766A185580"
+                    "gid": "D9E3C02B04D7D31427C840EC5F37B348",
+                    "size": "C8E12D19C2A4D09B3A90ACAF819A19B8",
+                    "download": "B0FF3C6B371F6C9CDAC115511BB3BCAE"
                 },
                 "media": {
                     "gid": "5E2CB5A7441347BC17E6E576E58433B3",
@@ -389,9 +390,9 @@
                     "download": "6BBCA860BE92A0B79510ABB5D74E016F"
                 },
                 "staging-debug": {
-                    "gid": "77E7318919E83E5F9049EEDF68A4526F",
+                    "gid": "BA06982750AA2A0C1C95E388DE77F492",
                     "size": "283B7F21F95F4BBE6A87E4C7A9CF715F",
-                    "download": "EA238C69B2611A201E8F512836289572"
+                    "download": "A07368940CFC94AE204E634C23F90F7A"
                 },
                 "test": {
                     "gid": "1A73CABCA769CCBE4A1821E5716C7A6F",
@@ -471,14 +472,14 @@
                 "timeupdated": "1725956589"
             },
             "aux02": {
-                "buildid": "15680058",
+                "buildid": "15685190",
                 "description": "Up and coming",
-                "timeupdated": "1726159531"
+                "timeupdated": "1726193650"
             },
             "aux02-debug": {
-                "buildid": "15680078",
+                "buildid": "15685206",
                 "pwdrequired": "1",
-                "timeupdated": "1726159645"
+                "timeupdated": "1726193766"
             },
             "last-month": {
                 "buildid": "15416681",
@@ -505,13 +506,13 @@
                 "timeupdated": "1725982808"
             },
             "staging": {
-                "buildid": "15683546",
-                "timeupdated": "1726181526"
+                "buildid": "15685395",
+                "timeupdated": "1726195131"
             },
             "staging-debug": {
-                "buildid": "15683562",
+                "buildid": "15685406",
                 "pwdrequired": "1",
-                "timeupdated": "1726181641"
+                "timeupdated": "1726195229"
             },
             "test": {
                 "buildid": "15110119",
@@ -526,7 +527,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25200962,
-    "_sha": "3af6690964cb214bf03f2391c2a0af637d5e8e30",
-    "_size": 14670
+    "_change_number": 25202975,
+    "_sha": "26275c68bb752da9d49112aa26b71f8ce4daed4a",
+    "_size": 14693
 }
