@@ -1056,14 +1056,14 @@
             "timeupdated": "1725956589"
         },
         "aux02": {
-            "buildid": "15685190",
+            "buildid": "15686606",
             "description": "Up and coming",
-            "timeupdated": "1726193650"
+            "timeupdated": "1726205785"
         },
         "aux02-debug": {
-            "buildid": "15685206",
+            "buildid": "15686626",
             "pwdrequired": "1",
-            "timeupdated": "1726193766"
+            "timeupdated": "1726205898"
         },
         "last-month": {
             "buildid": "15416681",
@@ -2459,9 +2459,9 @@
             "timeupdated": "1726119748"
         },
         "4coreqa": {
-            "buildid": "15672407",
+            "buildid": "15686149",
             "pwdrequired": "1",
-            "timeupdated": "1726119759"
+            "timeupdated": "1726205995"
         },
         "5coreqa": {
             "buildid": "14395890",
@@ -8059,9 +8059,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15686521",
+            "buildid": "15686694",
             "description": "Builds before live",
-            "timeupdated": "1726204878"
+            "timeupdated": "1726206403"
         }
     },
     "1899880": {
