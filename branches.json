@@ -2397,9 +2397,9 @@
             "timeupdated": "1580695014"
         },
         "developer": {
-            "buildid": "15700728",
+            "buildid": "15706333",
             "pwdrequired": "1",
-            "timeupdated": "1726307625"
+            "timeupdated": "1726391529"
         }
     },
     "439700": {
@@ -3548,9 +3548,9 @@
             "timeupdated": "1726356348"
         },
         "ss_main_2": {
-            "buildid": "15703644",
+            "buildid": "15706277",
             "pwdrequired": "1",
-            "timeupdated": "1726347326"
+            "timeupdated": "1726390651"
         }
     },
     "582320": {},
@@ -4367,9 +4367,9 @@
             "timeupdated": "1726253586"
         },
         "astromain_su": {
-            "buildid": "15700628",
+            "buildid": "15706281",
             "pwdrequired": "1",
-            "timeupdated": "1726306714"
+            "timeupdated": "1726390683"
         },
         "astrortx_dailies": {
             "buildid": "15156403",
@@ -8064,9 +8064,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15704788",
+            "buildid": "15706327",
             "description": "Builds before live",
-            "timeupdated": "1726365334"
+            "timeupdated": "1726391404"
         }
     },
     "1899880": {
