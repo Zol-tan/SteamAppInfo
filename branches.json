@@ -4839,9 +4839,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15714364",
+            "buildid": "15714732",
             "pwdrequired": "1",
-            "timeupdated": "1726486835"
+            "timeupdated": "1726489167"
         },
         "lionbridge_qa": {
             "buildid": "15675349",
@@ -6668,9 +6668,9 @@
             "timeupdated": "1724759242"
         },
         "internal-qa": {
-            "buildid": "15712929",
+            "buildid": "15714493",
             "pwdrequired": "1",
-            "timeupdated": "1726477275"
+            "timeupdated": "1726487695"
         },
         "internal-slow": {
             "buildid": "15075007",
