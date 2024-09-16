@@ -7527,9 +7527,9 @@
             "timeupdated": "1725309546"
         },
         "nightly": {
-            "buildid": "15709815",
+            "buildid": "15722130",
             "pwdrequired": "1",
-            "timeupdated": "1726442946"
+            "timeupdated": "1726529348"
         },
         "patching": {
             "buildid": "15459929",
@@ -8299,6 +8299,11 @@
             "buildid": "11461918",
             "pwdrequired": "1",
             "timeupdated": "1686690192"
+        },
+        "preview": {
+            "buildid": "15722060",
+            "pwdrequired": "1",
+            "timeupdated": "1726528896"
         }
     },
     "2059840": {
