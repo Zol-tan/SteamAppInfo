@@ -4411,8 +4411,8 @@
     },
     "739590": {
         "public": {
-            "buildid": "15727659",
-            "timeupdated": "1726569602"
+            "buildid": "15727740",
+            "timeupdated": "1726570110"
         },
         "10.0.4": {
             "buildid": "13082430",
@@ -4465,9 +4465,9 @@
             "timeupdated": "1725619573"
         },
         "11.0.5": {
-            "buildid": "15727659",
+            "buildid": "15727740",
             "description": "Beta 11.0.5",
-            "timeupdated": "1726569547"
+            "timeupdated": "1726570064"
         },
         "develop": {
             "buildid": "15647801",
@@ -8142,9 +8142,9 @@
             "timeupdated": "1726569551"
         },
         "testing": {
-            "buildid": "15712292",
+            "buildid": "15727662",
             "pwdrequired": "1",
-            "timeupdated": "1726472748"
+            "timeupdated": "1726570650"
         },
         "testing2": {
             "buildid": "15640824",
@@ -8323,9 +8323,9 @@
             "timeupdated": "1725955731"
         },
         "canary": {
-            "buildid": "15725959",
+            "buildid": "15727739",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1726560590"
+            "timeupdated": "1726570063"
         },
         "hotfix": {
             "buildid": "15647913",
