@@ -4279,9 +4279,9 @@
             "timeupdated": "1718701842"
         },
         "release_candidate": {
-            "buildid": "15723459",
+            "buildid": "15727613",
             "pwdrequired": "1",
-            "timeupdated": "1726540069"
+            "timeupdated": "1726569295"
         }
     },
     "713970": {
@@ -4423,41 +4423,6 @@
             "buildid": "13727780",
             "description": "Beta 10.1.5",
             "timeupdated": "1710340975"
-        },
-        "9.0.5": {
-            "buildid": "5671295",
-            "description": "Beta 9.0.5",
-            "timeupdated": "1658455842"
-        },
-        "9.1.9": {
-            "buildid": "6005319",
-            "description": "Beta 9.1.9",
-            "timeupdated": "1608694818"
-        },
-        "9.2.4": {
-            "buildid": "6185966",
-            "description": "Beta 9.2.4",
-            "timeupdated": "1612407730"
-        },
-        "9.3.6": {
-            "buildid": "7001011",
-            "description": "Beta 9.3.6",
-            "timeupdated": "1625773009"
-        },
-        "9.4.6": {
-            "buildid": "8134674",
-            "description": "Beta 9.4.6",
-            "timeupdated": "1643841190"
-        },
-        "9.5.4": {
-            "buildid": "9029030",
-            "description": "Beta 9.5.4",
-            "timeupdated": "1656507257"
-        },
-        "9.6.6": {
-            "buildid": "9907154",
-            "description": "Beta 9.6.6",
-            "timeupdated": "1668063160"
         },
         "9.7.13": {
             "buildid": "11262478",
@@ -4996,9 +4961,9 @@
             "timeupdated": "1723756543"
         },
         "uat_featuretest10": {
-            "buildid": "15726503",
+            "buildid": "15727425",
             "pwdrequired": "1",
-            "timeupdated": "1726563528"
+            "timeupdated": "1726568246"
         },
         "uat_featuretest11": {
             "buildid": "15656080",
@@ -7051,9 +7016,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15726077",
+            "buildid": "15727514",
             "pwdrequired": "1",
-            "timeupdated": "1726560984"
+            "timeupdated": "1726568704"
         },
         "goblin": {
             "buildid": "15717742",
@@ -8069,9 +8034,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15726935",
+            "buildid": "15727380",
             "description": "Builds before live",
-            "timeupdated": "1726565703"
+            "timeupdated": "1726568102"
         }
     },
     "1899880": {
