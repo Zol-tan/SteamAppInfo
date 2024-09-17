@@ -1056,14 +1056,14 @@
             "timeupdated": "1725956589"
         },
         "aux02": {
-            "buildid": "15726448",
+            "buildid": "15729015",
             "description": "Up and coming",
-            "timeupdated": "1726563169"
+            "timeupdated": "1726576762"
         },
         "aux02-debug": {
-            "buildid": "15726474",
+            "buildid": "15729043",
             "pwdrequired": "1",
-            "timeupdated": "1726563322"
+            "timeupdated": "1726576875"
         },
         "last-month": {
             "buildid": "15416681",
@@ -2071,9 +2071,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15720402",
+            "buildid": "15728757",
             "pwdrequired": "1",
-            "timeupdated": "1726523501"
+            "timeupdated": "1726575499"
         },
         "squad_release": {
             "buildid": "15720296",
@@ -3877,9 +3877,9 @@
             "timeupdated": "1720556043"
         },
         "testing": {
-            "buildid": "15712137",
+            "buildid": "15728559",
             "pwdrequired": "1",
-            "timeupdated": "1726472962"
+            "timeupdated": "1726576274"
         }
     },
     "630230": {
@@ -4941,9 +4941,9 @@
             "timeupdated": "1724246373"
         },
         "uat_featuretest5": {
-            "buildid": "15706173",
+            "buildid": "15728792",
             "pwdrequired": "1",
-            "timeupdated": "1726389136"
+            "timeupdated": "1726575654"
         },
         "uat_featuretest6": {
             "buildid": "15662919",
@@ -7021,9 +7021,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15727514",
+            "buildid": "15729003",
             "pwdrequired": "1",
-            "timeupdated": "1726568704"
+            "timeupdated": "1726576709"
         },
         "goblin": {
             "buildid": "15717742",
@@ -8039,9 +8039,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15727380",
+            "buildid": "15729074",
             "description": "Builds before live",
-            "timeupdated": "1726568102"
+            "timeupdated": "1726577018"
         }
     },
     "1899880": {
