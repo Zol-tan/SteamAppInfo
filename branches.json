@@ -2181,9 +2181,9 @@
             "timeupdated": "1699983388"
         },
         "evrima": {
-            "buildid": "15291001",
+            "buildid": "15732689",
             "description": "evrima servers",
-            "timeupdated": "1723037853"
+            "timeupdated": "1726597374"
         },
         "hordetesting": {
             "buildid": "15695514",
@@ -3623,9 +3623,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15718499",
+            "buildid": "15732755",
             "description": "beta branch",
-            "timeupdated": "1726511316"
+            "timeupdated": "1726597718"
         },
         "preterrain": {
             "buildid": "15643481",
@@ -3800,14 +3800,14 @@
             "timeupdated": "1713813913"
         },
         "nighly": {
-            "buildid": "15682100",
+            "buildid": "15732697",
             "pwdrequired": "1",
-            "timeupdated": "1726171983"
+            "timeupdated": "1726597416"
         },
         "nighly_shack": {
-            "buildid": "15682100",
+            "buildid": "15732596",
             "pwdrequired": "1",
-            "timeupdated": "1726173688"
+            "timeupdated": "1726596895"
         },
         "shack": {
             "buildid": "15510931",

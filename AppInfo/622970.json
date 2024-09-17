@@ -168,14 +168,14 @@
                     "download": "78765CAF019657F8C610F8F1F0A42CDF"
                 },
                 "nighly": {
-                    "gid": "0030C09B09F5583F5C748636C194C7F7",
-                    "size": "9F12DC9B2C9ACA32539EE6EA1A6B219F",
-                    "download": "05832D13FDC164E2FF21653ADBE0FB2D"
+                    "gid": "ED48CF3E8F0DE1DC39E63550A8397DA9",
+                    "size": "1E65D88419919B3A5846B27E2FF58170",
+                    "download": "23793537926F7B86A1155865C56A531E"
                 },
                 "nighly_shack": {
-                    "gid": "CA3585565CF5C2A8BD6C0127C376BD2D",
-                    "size": "977D588F7C73FCCB4A1D48910D4C9014",
-                    "download": "9592AA875538D8271E14587B40C43ECA"
+                    "gid": "20B053B53A3865690C263757D937A65A",
+                    "size": "5FB20486210C92E511DB7D9E37CF5ADC",
+                    "download": "93D4FEB0F81E78DDAD65E3013185D604"
                 }
             }
         },
@@ -262,14 +262,14 @@
                 "timeupdated": "1713813913"
             },
             "nighly": {
-                "buildid": "15682100",
+                "buildid": "15732697",
                 "pwdrequired": "1",
-                "timeupdated": "1726171983"
+                "timeupdated": "1726597416"
             },
             "nighly_shack": {
-                "buildid": "15682100",
+                "buildid": "15732596",
                 "pwdrequired": "1",
-                "timeupdated": "1726173688"
+                "timeupdated": "1726596895"
             },
             "shack": {
                 "buildid": "15510931",
@@ -278,7 +278,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25199118,
-    "_sha": "dd01447b3ee0ad801d1899cfb999a79ca5ffd532",
+    "_change_number": 25266782,
+    "_sha": "cae125eb27c7333ad346611b02116130e5a5a475",
     "_size": 6517
 }

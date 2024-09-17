@@ -134,9 +134,9 @@
                     "download": "1268531152"
                 },
                 "evrima": {
-                    "gid": "4551523553291617648",
-                    "size": "812615083",
-                    "download": "580273904"
+                    "gid": "8954958400642827873",
+                    "size": "984055814",
+                    "download": "735320384"
                 }
             },
             "encryptedmanifests": {
@@ -218,9 +218,9 @@
                 "timeupdated": "1699983388"
             },
             "evrima": {
-                "buildid": "15291001",
+                "buildid": "15732689",
                 "description": "evrima servers",
-                "timeupdated": "1723037853"
+                "timeupdated": "1726597374"
             },
             "hordetesting": {
                 "buildid": "15695514",
@@ -270,7 +270,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25261566,
-    "_sha": "57eac193ad4c7c57693364928ce8a1af9372d217",
+    "_change_number": 25266777,
+    "_sha": "035f83715f41a898b8375de3a79b531ae79ae36f",
     "_size": 7260
 }
