@@ -2181,9 +2181,9 @@
             "timeupdated": "1699983388"
         },
         "evrima": {
-            "buildid": "15291001",
+            "buildid": "15734827",
             "description": "evrima servers",
-            "timeupdated": "1726597891"
+            "timeupdated": "1726612181"
         },
         "hordetesting": {
             "buildid": "15695514",
@@ -4367,9 +4367,9 @@
             "timeupdated": "1726563511"
         },
         "astromain_incremental": {
-            "buildid": "15734262",
+            "buildid": "15734903",
             "pwdrequired": "1",
-            "timeupdated": "1726607894"
+            "timeupdated": "1726612745"
         },
         "astromain_su": {
             "buildid": "15727324",
