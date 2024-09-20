@@ -80,9 +80,9 @@
                     "download": "2082263856"
                 },
                 "beta": {
-                    "gid": "882376727657839096",
-                    "size": "1068356165",
-                    "download": "590095136"
+                    "gid": "3392643283208356351",
+                    "size": "1068356442",
+                    "download": "590097344"
                 },
                 "preterrain": {
                     "gid": "2874601712976274731",
@@ -149,9 +149,9 @@
                 "timeupdated": "1689829236"
             },
             "beta": {
-                "buildid": "15774400",
+                "buildid": "15774429",
                 "description": "beta branch",
-                "timeupdated": "1726856587"
+                "timeupdated": "1726856809"
             },
             "preterrain": {
                 "buildid": "15643481",
@@ -161,7 +161,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25322208,
-    "_sha": "71c6a73d8d0ef6fd57074036d3a162642ff1884e",
-    "_size": 3611
+    "_change_number": 25322249,
+    "_sha": "87bd42f43d71d7e01b495ac653973c98f341cd6e",
+    "_size": 3612
 }
