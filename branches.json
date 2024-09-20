@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15776953",
+            "buildid": "15777025",
             "pwdrequired": "1",
-            "timeupdated": "1726874088"
+            "timeupdated": "1726874648"
         },
         "lionbridge_qa": {
             "buildid": "15754346",
@@ -5001,9 +5001,9 @@
             "timeupdated": "1726864393"
         },
         "uat_release": {
-            "buildid": "15765650",
+            "buildid": "15777074",
             "pwdrequired": "1",
-            "timeupdated": "1726804504"
+            "timeupdated": "1726874972"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -7981,9 +7981,9 @@
             "timeupdated": "1726810133"
         },
         "internal": {
-            "buildid": "15763403",
+            "buildid": "15777012",
             "pwdrequired": "1",
-            "timeupdated": "1726787193"
+            "timeupdated": "1726874516"
         },
         "stable": {
             "buildid": "15399250",
