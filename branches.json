@@ -1417,9 +1417,9 @@
             "timeupdated": "1723806632"
         },
         "steamctg": {
-            "buildid": "15716779",
+            "buildid": "15772965",
             "pwdrequired": "1",
-            "timeupdated": "1726501060"
+            "timeupdated": "1726848479"
         },
         "test": {
             "buildid": "14455777",
@@ -3528,9 +3528,9 @@
             "timeupdated": "1714013163"
         },
         "ss_evaluation_1": {
-            "buildid": "15763447",
+            "buildid": "15772995",
             "pwdrequired": "1",
-            "timeupdated": "1726787547"
+            "timeupdated": "1726848609"
         },
         "ss_external_1": {
             "buildid": "15762835",
@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15770721",
+            "buildid": "15772949",
             "pwdrequired": "1",
-            "timeupdated": "1726836233"
+            "timeupdated": "1726848393"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
