@@ -1090,13 +1090,13 @@
             "timeupdated": "1725982808"
         },
         "staging": {
-            "buildid": "15793627",
-            "timeupdated": "1727088673"
+            "buildid": "15795625",
+            "timeupdated": "1727100083"
         },
         "staging-debug": {
-            "buildid": "15793640",
+            "buildid": "15795657",
             "pwdrequired": "1",
-            "timeupdated": "1727088767"
+            "timeupdated": "1727100177"
         },
         "test": {
             "buildid": "15110119",
@@ -7026,9 +7026,9 @@
             "timeupdated": "1727097500"
         },
         "goblin": {
-            "buildid": "15793876",
+            "buildid": "15795777",
             "pwdrequired": "1",
-            "timeupdated": "1727090173"
+            "timeupdated": "1727100702"
         },
         "staging": {
             "buildid": "15729178",
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15795443",
+            "buildid": "15795796",
             "description": "Builds before live",
-            "timeupdated": "1727099160"
+            "timeupdated": "1727100827"
         }
     },
     "1899880": {
@@ -8328,9 +8328,9 @@
             "timeupdated": "1725955731"
         },
         "canary": {
-            "buildid": "15789704",
+            "buildid": "15795715",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1727055180"
+            "timeupdated": "1727100436"
         },
         "hotfix": {
             "buildid": "15647913",
