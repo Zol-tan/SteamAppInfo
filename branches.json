@@ -1090,8 +1090,8 @@
             "timeupdated": "1725982808"
         },
         "staging": {
-            "buildid": "15756258",
-            "timeupdated": "1727076090"
+            "buildid": "15792163",
+            "timeupdated": "1727079979"
         },
         "staging-debug": {
             "buildid": "15756284",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15791392",
+            "buildid": "15792133",
             "pwdrequired": "1",
-            "timeupdated": "1727075075"
+            "timeupdated": "1727079800"
         },
         "lionbridge_qa": {
             "buildid": "15754346",
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15791308",
+            "buildid": "15791829",
             "description": "Builds before live",
-            "timeupdated": "1727074163"
+            "timeupdated": "1727078342"
         }
     },
     "1899880": {
