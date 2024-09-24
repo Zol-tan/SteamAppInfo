@@ -2449,9 +2449,9 @@
             "timeupdated": "1713871715"
         },
         "2coreqa": {
-            "buildid": "15767069",
+            "buildid": "15803687",
             "pwdrequired": "1",
-            "timeupdated": "1726820870"
+            "timeupdated": "1727157430"
         },
         "3coreqa": {
             "buildid": "15711094",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15802437",
+            "buildid": "15804523",
             "pwdrequired": "1",
-            "timeupdated": "1727141732"
+            "timeupdated": "1727158772"
         },
         "lionbridge_qa": {
             "buildid": "15776927",
@@ -5364,9 +5364,9 @@
             "timeupdated": "1718091885"
         },
         "internal-test": {
-            "buildid": "15767793",
+            "buildid": "15795844",
             "pwdrequired": "1",
-            "timeupdated": "1726826405"
+            "timeupdated": "1727157686"
         },
         "public-test": {
             "buildid": "15416908",
