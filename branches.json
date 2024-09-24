@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15804676",
+            "buildid": "15804725",
             "pwdrequired": "1",
-            "timeupdated": "1727160174"
+            "timeupdated": "1727160579"
         },
         "lionbridge_qa": {
             "buildid": "15776927",
@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15803460",
+            "buildid": "15804758",
             "pwdrequired": "1",
-            "timeupdated": "1727149210"
+            "timeupdated": "1727160812"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
@@ -6643,9 +6643,9 @@
             "timeupdated": "1724759242"
         },
         "internal-qa": {
-            "buildid": "15774914",
+            "buildid": "15804759",
             "pwdrequired": "1",
-            "timeupdated": "1726860186"
+            "timeupdated": "1727160830"
         },
         "internal-slow": {
             "buildid": "15075007",
@@ -7782,11 +7782,6 @@
             "buildid": "15720265",
             "timeupdated": "1726573359"
         },
-        "internal2": {
-            "buildid": "11171529",
-            "pwdrequired": "1",
-            "timeupdated": "1683383612"
-        },
         "legacy-0.5.x": {
             "buildid": "10409337",
             "description": "Initial Early Access version. Originally released: 2022-05-17",
@@ -7816,6 +7811,11 @@
             "buildid": "15720265",
             "pwdrequired": "1",
             "timeupdated": "1726565477"
+        },
+        "internal2": {
+            "buildid": "15743248",
+            "pwdrequired": "1",
+            "timeupdated": "1727160977"
         },
         "internal3": {
             "buildid": "14560493",
