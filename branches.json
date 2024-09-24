@@ -1174,9 +1174,9 @@
             "timeupdated": "1723735214"
         },
         "testing_trunk": {
-            "buildid": "15801272",
+            "buildid": "15815195",
             "pwdrequired": "1",
-            "timeupdated": "1727133654"
+            "timeupdated": "1727221360"
         },
         "testing_branch": {
             "buildid": "15812436",
@@ -7497,9 +7497,9 @@
             "timeupdated": "1725309546"
         },
         "nightly": {
-            "buildid": "15801423",
+            "buildid": "15815157",
             "pwdrequired": "1",
-            "timeupdated": "1727134573"
+            "timeupdated": "1727220985"
         },
         "patching": {
             "buildid": "15459929",
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15811148",
+            "buildid": "15815180",
             "description": "Builds before live",
-            "timeupdated": "1727195084"
+            "timeupdated": "1727221201"
         }
     },
     "1899880": {
