@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15804758",
+            "buildid": "15807509",
             "pwdrequired": "1",
-            "timeupdated": "1727160812"
+            "timeupdated": "1727175381"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
@@ -5754,9 +5754,9 @@
             "timeupdated": "1726845985"
         },
         "mr-testing-2": {
-            "buildid": "15803460",
+            "buildid": "15807509",
             "pwdrequired": "1",
-            "timeupdated": "1727169333"
+            "timeupdated": "1727175406"
         },
         "mr-testing-3": {
             "buildid": "15801142",
@@ -7026,9 +7026,9 @@
             "timeupdated": "1727173467"
         },
         "goblin": {
-            "buildid": "15798947",
+            "buildid": "15807553",
             "pwdrequired": "1",
-            "timeupdated": "1727118598"
+            "timeupdated": "1727175638"
         },
         "staging": {
             "buildid": "15729178",
@@ -7858,9 +7858,9 @@
             "timeupdated": "1726566521"
         },
         "partner2-official-ce1": {
-            "buildid": "14811677",
+            "buildid": "15743248",
             "pwdrequired": "1",
-            "timeupdated": "1719320376"
+            "timeupdated": "1727176403"
         },
         "partner2-test": {
             "buildid": "15743248",
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15807314",
+            "buildid": "15807564",
             "description": "Builds before live",
-            "timeupdated": "1727174234"
+            "timeupdated": "1727175693"
         }
     },
     "1899880": {
