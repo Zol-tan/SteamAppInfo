@@ -7021,9 +7021,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15810609",
+            "buildid": "15820776",
             "pwdrequired": "1",
-            "timeupdated": "1727192097"
+            "timeupdated": "1727259340"
         },
         "goblin": {
             "buildid": "15820362",
@@ -7384,9 +7384,9 @@
             "timeupdated": "1726565315"
         },
         "private_qa": {
-            "buildid": "15820638",
+            "buildid": "15820749",
             "pwdrequired": "1",
-            "timeupdated": "1727258743"
+            "timeupdated": "1727259177"
         },
         "private_qa2": {
             "buildid": "14807938",
