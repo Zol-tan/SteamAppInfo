@@ -7179,9 +7179,9 @@
             "timeupdated": "1687922058"
         },
         "beta": {
-            "buildid": "15539166",
+            "buildid": "15827212",
             "pwdrequired": "1",
-            "timeupdated": "1724985802"
+            "timeupdated": "1727293228"
         }
     },
     "1549820": {
@@ -8044,9 +8044,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15826159",
+            "buildid": "15827166",
             "description": "Builds before live",
-            "timeupdated": "1727286934"
+            "timeupdated": "1727292922"
         }
     },
     "1899880": {
