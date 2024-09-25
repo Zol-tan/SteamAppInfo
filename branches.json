@@ -2484,9 +2484,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15808804",
+            "buildid": "15819077",
             "pwdrequired": "1",
-            "timeupdated": "1727182734"
+            "timeupdated": "1727250392"
         },
         "nightly-test": {
             "buildid": "15817047",
@@ -3513,9 +3513,9 @@
             "timeupdated": "1675254464"
         },
         "ss_cte_3": {
-            "buildid": "15802264",
+            "buildid": "15800715",
             "pwdrequired": "1",
-            "timeupdated": "1727247587"
+            "timeupdated": "1727250300"
         },
         "ss_cte_5": {
             "buildid": "15532423",
@@ -3523,9 +3523,9 @@
             "timeupdated": "1724939740"
         },
         "ss_cte_6": {
-            "buildid": "15802286",
+            "buildid": "15802264",
             "pwdrequired": "1",
-            "timeupdated": "1727247707"
+            "timeupdated": "1727250639"
         },
         "ss_evaluation_1": {
             "buildid": "15816351",
