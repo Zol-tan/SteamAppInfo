@@ -82,14 +82,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4432924794912304032",
-                    "size": "1569772293",
-                    "download": "335160112"
+                    "gid": "1728512424788348997",
+                    "size": "1663090305",
+                    "download": "359205328"
                 },
                 "development": {
-                    "gid": "7233801313949079446",
-                    "size": "1660845609",
-                    "download": "346545152"
+                    "gid": "1728512424788348997",
+                    "size": "1663090305",
+                    "download": "359205328"
                 }
             }
         },
@@ -99,31 +99,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5805652148236782539",
-                    "size": "2513401166",
-                    "download": "441240768"
+                    "gid": "8640247976916014935",
+                    "size": "2581611342",
+                    "download": "454400176"
                 },
                 "development": {
-                    "gid": "6154102257931377351",
-                    "size": "2581611755",
-                    "download": "454399920"
+                    "gid": "8640247976916014935",
+                    "size": "2581611342",
+                    "download": "454400176"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8219300",
-                "timeupdated": "1645096873"
+                "buildid": "15823412",
+                "timeupdated": "1727273735"
             },
             "development": {
-                "buildid": "15810555",
+                "buildid": "15823412",
                 "description": "development",
-                "timeupdated": "1727191841"
+                "timeupdated": "1727272864"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25371381,
-    "_sha": "a24acafab0ff4a2d6c900828ae7fa2d5f48f5467",
-    "_size": 2467
+    "_change_number": 25388247,
+    "_sha": "7b1443b600df91d0b0ef04752b0640fa70480f6c",
+    "_size": 2468
 }
