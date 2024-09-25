@@ -3513,9 +3513,9 @@
             "timeupdated": "1675254464"
         },
         "ss_cte_3": {
-            "buildid": "15433908",
+            "buildid": "15802264",
             "pwdrequired": "1",
-            "timeupdated": "1724154633"
+            "timeupdated": "1727247587"
         },
         "ss_cte_5": {
             "buildid": "15532423",
@@ -3523,9 +3523,9 @@
             "timeupdated": "1724939740"
         },
         "ss_cte_6": {
-            "buildid": "14167275",
+            "buildid": "15802286",
             "pwdrequired": "1",
-            "timeupdated": "1714013163"
+            "timeupdated": "1727247707"
         },
         "ss_evaluation_1": {
             "buildid": "15816351",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15816175",
+            "buildid": "15818501",
             "pwdrequired": "1",
-            "timeupdated": "1727228695"
+            "timeupdated": "1727247159"
         },
         "lionbridge_qa": {
             "buildid": "15804593",
@@ -6643,9 +6643,9 @@
             "timeupdated": "1724759242"
         },
         "internal-qa": {
-            "buildid": "15810720",
+            "buildid": "15818562",
             "pwdrequired": "1",
-            "timeupdated": "1727192761"
+            "timeupdated": "1727247563"
         },
         "internal-slow": {
             "buildid": "15075007",
