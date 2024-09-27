@@ -2494,9 +2494,9 @@
             "timeupdated": "1727409244"
         },
         "nightly-trunk": {
-            "buildid": "15831621",
+            "buildid": "15845656",
             "pwdrequired": "1",
-            "timeupdated": "1727323928"
+            "timeupdated": "1727410612"
         },
         "rc-retail": {
             "buildid": "15713669",
@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15842985",
+            "buildid": "15845749",
             "pwdrequired": "1",
-            "timeupdated": "1727388634"
+            "timeupdated": "1727411300"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
