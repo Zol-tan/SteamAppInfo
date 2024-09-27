@@ -1417,9 +1417,9 @@
             "timeupdated": "1723806632"
         },
         "steamctg": {
-            "buildid": "15772965",
+            "buildid": "15852939",
             "pwdrequired": "1",
-            "timeupdated": "1726848479"
+            "timeupdated": "1727453281"
         },
         "test": {
             "buildid": "14455777",
@@ -8142,9 +8142,9 @@
             "timeupdated": "1727427254"
         },
         "developer": {
-            "buildid": "15838672",
+            "buildid": "15852426",
             "pwdrequired": "1",
-            "timeupdated": "1727364764"
+            "timeupdated": "1727453801"
         },
         "testing": {
             "buildid": "15838672",
