@@ -1094,9 +1094,9 @@
             "timeupdated": "1727580992"
         },
         "staging-debug": {
-            "buildid": "15856505",
+            "buildid": "15864590",
             "pwdrequired": "1",
-            "timeupdated": "1727476561"
+            "timeupdated": "1727581129"
         },
         "test": {
             "buildid": "15110119",
@@ -5769,9 +5769,9 @@
             "timeupdated": "1727562751"
         },
         "nightly": {
-            "buildid": "15858342",
+            "buildid": "15864625",
             "pwdrequired": "1",
-            "timeupdated": "1727494606"
+            "timeupdated": "1727581762"
         },
         "thomasjosif-test": {
             "buildid": "15659557",
