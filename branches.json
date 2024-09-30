@@ -878,9 +878,9 @@
             "timeupdated": "1713877552"
         },
         "cdlc_private_beta_server": {
-            "buildid": "15821897",
+            "buildid": "15874583",
             "pwdrequired": "1",
-            "timeupdated": "1727265594"
+            "timeupdated": "1727695941"
         },
         "contact_staging": {
             "buildid": "15809622",
@@ -8049,9 +8049,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15871698",
+            "buildid": "15874634",
             "description": "Builds before live",
-            "timeupdated": "1727678181"
+            "timeupdated": "1727696327"
         }
     },
     "1899880": {
