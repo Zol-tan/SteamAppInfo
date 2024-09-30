@@ -1090,13 +1090,13 @@
             "timeupdated": "1727168034"
         },
         "staging": {
-            "buildid": "15877036",
-            "timeupdated": "1727709252"
+            "buildid": "15877948",
+            "timeupdated": "1727713824"
         },
         "staging-debug": {
-            "buildid": "15877071",
+            "buildid": "15877971",
             "pwdrequired": "1",
-            "timeupdated": "1727709388"
+            "timeupdated": "1727713944"
         },
         "test": {
             "buildid": "15110119",
@@ -5749,9 +5749,9 @@
             "timeupdated": "1717183209"
         },
         "mr-testing": {
-            "buildid": "15871604",
+            "buildid": "15863390",
             "pwdrequired": "1",
-            "timeupdated": "1727709468"
+            "timeupdated": "1727713783"
         },
         "mr-testing-2": {
             "buildid": "15812546",
@@ -7031,9 +7031,9 @@
             "timeupdated": "1727708914"
         },
         "goblin": {
-            "buildid": "15876597",
+            "buildid": "15878098",
             "pwdrequired": "1",
-            "timeupdated": "1727706992"
+            "timeupdated": "1727714513"
         },
         "staging": {
             "buildid": "15873986",
@@ -7384,9 +7384,9 @@
             "timeupdated": "1727405815"
         },
         "private_ow": {
-            "buildid": "15867609",
+            "buildid": "15878108",
             "pwdrequired": "1",
-            "timeupdated": "1727628518"
+            "timeupdated": "1727714630"
         },
         "private_qa": {
             "buildid": "15820749",
