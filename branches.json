@@ -5285,9 +5285,9 @@
             "timeupdated": "1727715093"
         },
         "tester": {
-            "buildid": "15870910",
+            "buildid": "15879079",
             "pwdrequired": "1",
-            "timeupdated": "1727669090"
+            "timeupdated": "1727720042"
         }
     },
     "884110": {
@@ -8333,9 +8333,9 @@
             "timeupdated": "1725955731"
         },
         "canary": {
-            "buildid": "15868101",
+            "buildid": "15879123",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1727635290"
+            "timeupdated": "1727720263"
         },
         "hotfix": {
             "buildid": "15647913",
