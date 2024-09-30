@@ -365,9 +365,9 @@
                     "download": "449DF2C6CF97BE5E3B19E9030E0BAED0"
                 },
                 "buildtest": {
-                    "gid": "EB2F34A56C372806647F873955659588",
-                    "size": "FD496C33880903D9C46524B7CFF89498",
-                    "download": "EFC6700E41A8B5EA9A6C3073FADAB628"
+                    "gid": "6DC69E7F73E9586A22DCEE43CFE82548",
+                    "size": "8DF3DA466F2A9D13558C5447F8EDCAE6",
+                    "download": "02F29C2190F4BA66400AEF626A70F65C"
                 }
             }
         },
@@ -489,9 +489,9 @@
                     "download": "0CC7FC9B745AA7EC03BE5A369E8C4EB4"
                 },
                 "buildtest": {
-                    "gid": "78C3A6843186463A596E7278ABF4C9E1",
-                    "size": "486F2F7C1720F95C9F8384DA61758152",
-                    "download": "306723D487121F1663571752B7E1F904"
+                    "gid": "4F55E926A9CE79C048B438C2ECA94DCE",
+                    "size": "C93AA468643D14F2DF20EA4E0824789D",
+                    "download": "A42E729D42B6CE4AD777EC304675C710"
                 }
             }
         },
@@ -613,9 +613,9 @@
                     "download": "AB07131E3E2F92E2B062D52B8CAE162A"
                 },
                 "buildtest": {
-                    "gid": "91689816860D8126FAA3C50BDCE4CC8C",
-                    "size": "6A56401020A26C632084182CE409DED2",
-                    "download": "BE3735565E29AFED6B5D2771312D23E7"
+                    "gid": "B7D09F43788B61E54A5D2AE8798B99F1",
+                    "size": "95212519906226352D587B32C8FD620B",
+                    "download": "711D923EBD4AAA95EA67DBFA50F4AE23"
                 }
             }
         },
@@ -705,9 +705,9 @@
                 "timeupdated": "1711560979"
             },
             "buildtest": {
-                "buildid": "15862605",
+                "buildid": "15872814",
                 "pwdrequired": "1",
-                "timeupdated": "1727551787"
+                "timeupdated": "1727685764"
             },
             "v0.24.2": {
                 "buildid": "13872628",
@@ -737,7 +737,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25440802,
-    "_sha": "57f0341210ddab42de711fe982c0dd2e9f7bb884",
+    "_change_number": 25454757,
+    "_sha": "9f85b214c25fd3f6b7ac900f605d6abedf2223a9",
     "_size": 17321
 }
