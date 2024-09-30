@@ -105,14 +105,14 @@
                     "download": "74DFC0FB5B89C78CB2BB47279434DCBF"
                 },
                 "goblin": {
-                    "gid": "1D7729ED9A38337D84F719E4D91C2160",
-                    "size": "113B91014A03A394358E781D10CCA003",
-                    "download": "119E62B5A8F751E088A29670714F0709"
+                    "gid": "6924C29AB3DEA1A436A411B96273E42E",
+                    "size": "C2149009A02F62F75C48D587C7B27693",
+                    "download": "BC129A388C051508E98153B4616D416E"
                 },
                 "staging": {
-                    "gid": "6289716EC6E3403009F01F5355733C5E",
+                    "gid": "3351450CD5E0C30FAD6C3F43B10BEFEB",
                     "size": "4E35EA3A108E05B1E531A50455FFEC18",
-                    "download": "0E382A759D7E7E5EA52823EDE7A8D302"
+                    "download": "630CBD9AA7FF7B3B75545CA7D1950D40"
                 }
             }
         },
@@ -151,14 +151,14 @@
                     "download": "A5E27429C5ED163E6926E116A4BE17F6"
                 },
                 "goblin": {
-                    "gid": "8949009D54A2D6CF70CBF92E80BC3C27",
-                    "size": "94D5525CBE1E0FE21CBEF84C3E91D63D",
-                    "download": "6DB56DC50AAFD962884E00518502AC03"
+                    "gid": "F946A901C7F05D88C8B297F5230C30C7",
+                    "size": "25705CEBEEB8435836A8246205A96BEB",
+                    "download": "73B10B7BD2E3D8CA70F70846AF9D581B"
                 },
                 "staging": {
-                    "gid": "9ACF0B20508259C5474AC450695C1398",
+                    "gid": "A42BC76C65034B3F4DA70AE25A30CDA9",
                     "size": "81720488AC582DABB9DAF688F09378A0",
-                    "download": "2E3B31EFC907D6FE06976529BE51A9C0"
+                    "download": "C555A7B27AAF9B6397F7C15FA08DF074"
                 }
             }
         },
@@ -188,19 +188,19 @@
                 "timeupdated": "1727689991"
             },
             "goblin": {
-                "buildid": "15866193",
+                "buildid": "15874065",
                 "pwdrequired": "1",
-                "timeupdated": "1727606028"
+                "timeupdated": "1727692891"
             },
             "staging": {
-                "buildid": "15873841",
+                "buildid": "15873986",
                 "pwdrequired": "1",
-                "timeupdated": "1727691711"
+                "timeupdated": "1727692450"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25456228,
-    "_sha": "8f32682c1b108cac5925f234f064df4e2927fd6c",
+    "_change_number": 25456511,
+    "_sha": "66caf5449019971b537b080d872220c009930a5b",
     "_size": 4885
 }
