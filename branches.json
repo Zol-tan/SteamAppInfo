@@ -2181,9 +2181,9 @@
             "timeupdated": "1699983388"
         },
         "evrima": {
-            "buildid": "15878442",
+            "buildid": "15882261",
             "description": "evrima servers",
-            "timeupdated": "1727716478"
+            "timeupdated": "1727741515"
         },
         "hordetesting": {
             "buildid": "15829928",
@@ -4269,9 +4269,9 @@
             "timeupdated": "1726057371"
         },
         "qa_main_cds": {
-            "buildid": "15857069",
+            "buildid": "15882133",
             "pwdrequired": "1",
-            "timeupdated": "1727481512"
+            "timeupdated": "1727740354"
         },
         "release": {
             "buildid": "15796241",
@@ -4367,9 +4367,9 @@
             "timeupdated": "1727686095"
         },
         "astromain_incremental": {
-            "buildid": "15881620",
+            "buildid": "15882313",
             "pwdrequired": "1",
-            "timeupdated": "1727736744"
+            "timeupdated": "1727741907"
         },
         "astromain_su": {
             "buildid": "15873569",
@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15881792",
+            "buildid": "15882222",
             "pwdrequired": "1",
-            "timeupdated": "1727738051"
+            "timeupdated": "1727741188"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
