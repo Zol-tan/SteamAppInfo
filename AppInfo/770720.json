@@ -294,7 +294,6 @@
             },
             "40": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage +sys_dump_type 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -347,7 +346,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main 117_shadtest lqa_test 117_precheck closed_beta_test 201_test"
+                    "betakey": "117_main 117_shadtest lqa_test 117_precheck closed_beta_test 201_test external_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -1151,7 +1150,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25473830,
-    "_sha": "0a3dff8e5d7c8ea4da009573439997360d385977",
-    "_size": 33206
+    "_change_number": 25473853,
+    "_sha": "8eb8bf6597b9d4e028930a0b14deaf72c04dce3f",
+    "_size": 33150
 }
