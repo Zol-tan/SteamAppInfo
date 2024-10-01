@@ -2494,9 +2494,9 @@
             "timeupdated": "1727807386"
         },
         "nightly-test": {
-            "buildid": "15885534",
+            "buildid": "15895357",
             "pwdrequired": "1",
-            "timeupdated": "1727768344"
+            "timeupdated": "1727824467"
         },
         "nightly-trunk": {
             "buildid": "15869500",
@@ -8064,9 +8064,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15894477",
+            "buildid": "15895382",
             "description": "Builds before live",
-            "timeupdated": "1727818585"
+            "timeupdated": "1727824616"
         }
     },
     "1899880": {
