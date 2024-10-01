@@ -1174,9 +1174,9 @@
             "timeupdated": "1727801647"
         },
         "testing_trunk": {
-            "buildid": "15886192",
+            "buildid": "15895414",
             "pwdrequired": "1",
-            "timeupdated": "1727771998"
+            "timeupdated": "1727824752"
         },
         "testing_branch": {
             "buildid": "15812436",
@@ -2489,9 +2489,9 @@
             "timeupdated": "1717349115"
         },
         "nightly-stable": {
-            "buildid": "15892659",
+            "buildid": "15895405",
             "pwdrequired": "1",
-            "timeupdated": "1727807386"
+            "timeupdated": "1727824720"
         },
         "nightly-test": {
             "buildid": "15895357",
@@ -3538,9 +3538,9 @@
             "timeupdated": "1727732781"
         },
         "ss_external_1": {
-            "buildid": "15881157",
+            "buildid": "15895506",
             "pwdrequired": "1",
-            "timeupdated": "1727733430"
+            "timeupdated": "1727825405"
         },
         "ss_external_3": {
             "buildid": "14536676",
@@ -4372,9 +4372,9 @@
             "timeupdated": "1727772064"
         },
         "astromain_incremental": {
-            "buildid": "15894957",
+            "buildid": "15895406",
             "pwdrequired": "1",
-            "timeupdated": "1727821936"
+            "timeupdated": "1727824721"
         },
         "astromain_su": {
             "buildid": "15886582",
@@ -6638,9 +6638,9 @@
             "timeupdated": "1724916691"
         },
         "internal-3": {
-            "buildid": "15894695",
+            "buildid": "15895503",
             "pwdrequired": "1",
-            "timeupdated": "1727819800"
+            "timeupdated": "1727825377"
         },
         "internal-4": {
             "buildid": "15772178",

@@ -358,9 +358,9 @@
                 "timeupdated": "1717349115"
             },
             "nightly-stable": {
-                "buildid": "15892659",
+                "buildid": "15895405",
                 "pwdrequired": "1",
-                "timeupdated": "1727807386"
+                "timeupdated": "1727824720"
             },
             "nightly-test": {
                 "buildid": "15895357",
@@ -390,7 +390,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25486250,
-    "_sha": "6edcc481e0b56e6ab45374f5daa7805bb420e3d9",
+    "_change_number": 25486308,
+    "_sha": "e45b98072871c5213f319a41772958010f8b8a46",
     "_size": 10269
 }
