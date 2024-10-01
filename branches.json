@@ -1090,8 +1090,8 @@
             "timeupdated": "1727168034"
         },
         "staging": {
-            "buildid": "15881308",
-            "timeupdated": "1727734537"
+            "buildid": "15886117",
+            "timeupdated": "1727771594"
         },
         "staging-debug": {
             "buildid": "15881329",
@@ -2474,9 +2474,9 @@
             "timeupdated": "1723221800"
         },
         "exiles-testfeature": {
-            "buildid": "15869693",
+            "buildid": "15885966",
             "pwdrequired": "1",
-            "timeupdated": "1727654603"
+            "timeupdated": "1727770631"
         },
         "nightly-live": {
             "buildid": "14577602",
@@ -4814,9 +4814,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15885669",
+            "buildid": "15885971",
             "pwdrequired": "1",
-            "timeupdated": "1727769227"
+            "timeupdated": "1727770685"
         },
         "lionbridge_qa": {
             "buildid": "15847052",
@@ -5364,9 +5364,9 @@
             "timeupdated": "1718091885"
         },
         "internal-test": {
-            "buildid": "15875976",
+            "buildid": "15885426",
             "pwdrequired": "1",
-            "timeupdated": "1727704018"
+            "timeupdated": "1727770156"
         },
         "public-test": {
             "buildid": "15416908",
@@ -7026,9 +7026,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15876959",
+            "buildid": "15886088",
             "pwdrequired": "1",
-            "timeupdated": "1727708914"
+            "timeupdated": "1727771413"
         },
         "goblin": {
             "buildid": "15878098",
