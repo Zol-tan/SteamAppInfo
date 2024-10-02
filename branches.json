@@ -1081,13 +1081,13 @@
             "timeupdated": "1715701846"
         },
         "release": {
-            "buildid": "15806078",
-            "timeupdated": "1727167979"
+            "buildid": "15903186",
+            "timeupdated": "1727876967"
         },
         "release-debug": {
-            "buildid": "15806091",
+            "buildid": "15903213",
             "pwdrequired": "1",
-            "timeupdated": "1727168034"
+            "timeupdated": "1727877107"
         },
         "staging": {
             "buildid": "15902598",
