@@ -1094,9 +1094,9 @@
             "timeupdated": "1727873805"
         },
         "staging-debug": {
-            "buildid": "15901777",
+            "buildid": "15902618",
             "pwdrequired": "1",
-            "timeupdated": "1727869551"
+            "timeupdated": "1727873938"
         },
         "test": {
             "buildid": "15110119",
@@ -2076,9 +2076,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15860961",
+            "buildid": "15902738",
             "pwdrequired": "1",
-            "timeupdated": "1727529793"
+            "timeupdated": "1727874662"
         },
         "squad_release": {
             "buildid": "15856497",
@@ -5379,9 +5379,9 @@
             "timeupdated": "1718091885"
         },
         "internal-test": {
-            "buildid": "15885426",
+            "buildid": "15902917",
             "pwdrequired": "1",
-            "timeupdated": "1727770156"
+            "timeupdated": "1727875612"
         },
         "public-test": {
             "buildid": "15416908",
@@ -7046,9 +7046,9 @@
             "timeupdated": "1727873613"
         },
         "goblin": {
-            "buildid": "15891246",
+            "buildid": "15902657",
             "pwdrequired": "1",
-            "timeupdated": "1727799256"
+            "timeupdated": "1727874206"
         },
         "staging": {
             "buildid": "15873986",
@@ -8353,9 +8353,9 @@
             "timeupdated": "1725955731"
         },
         "canary": {
-            "buildid": "15892993",
+            "buildid": "15902636",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1727809484"
+            "timeupdated": "1727874028"
         },
         "hotfix": {
             "buildid": "15647913",
