@@ -4372,9 +4372,9 @@
             "timeupdated": "1727772064"
         },
         "astromain_incremental": {
-            "buildid": "15896282",
+            "buildid": "15896949",
             "pwdrequired": "1",
-            "timeupdated": "1727831290"
+            "timeupdated": "1727836170"
         },
         "astromain_su": {
             "buildid": "15886582",
@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15896411",
+            "buildid": "15896936",
             "pwdrequired": "1",
-            "timeupdated": "1727832297"
+            "timeupdated": "1727836094"
         },
         "lionbridge_qa": {
             "buildid": "15884352",
@@ -5734,9 +5734,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15894818",
+            "buildid": "15896725",
             "pwdrequired": "1",
-            "timeupdated": "1727821057"
+            "timeupdated": "1727834509"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
@@ -6082,9 +6082,9 @@
             "timeupdated": "1726499191"
         },
         "test": {
-            "buildid": "15896420",
+            "buildid": "15896740",
             "pwdrequired": "1",
-            "timeupdated": "1727832348"
+            "timeupdated": "1727834629"
         },
         "nodecraft": {
             "buildid": "15765273",
@@ -8064,9 +8064,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15895382",
+            "buildid": "15896684",
             "description": "Builds before live",
-            "timeupdated": "1727824616"
+            "timeupdated": "1727834226"
         }
     },
     "1899880": {
