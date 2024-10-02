@@ -1094,9 +1094,9 @@
             "timeupdated": "1727826954"
         },
         "staging-debug": {
-            "buildid": "15893725",
+            "buildid": "15895721",
             "pwdrequired": "1",
-            "timeupdated": "1727813878"
+            "timeupdated": "1727827090"
         },
         "test": {
             "buildid": "15110119",
@@ -3034,9 +3034,9 @@
             "timeupdated": "1726082330"
         },
         "internal": {
-            "buildid": "15882735",
+            "buildid": "15896327",
             "pwdrequired": "1",
-            "timeupdated": "1727745435"
+            "timeupdated": "1727831650"
         },
         "internal2": {
             "buildid": "13881999",
@@ -4274,9 +4274,9 @@
             "timeupdated": "1726057371"
         },
         "qa_main_cds": {
-            "buildid": "15882133",
+            "buildid": "15895724",
             "pwdrequired": "1",
-            "timeupdated": "1727740354"
+            "timeupdated": "1727827096"
         },
         "release": {
             "buildid": "15796241",
@@ -4372,9 +4372,9 @@
             "timeupdated": "1727772064"
         },
         "astromain_incremental": {
-            "buildid": "15895406",
+            "buildid": "15896282",
             "pwdrequired": "1",
-            "timeupdated": "1727824721"
+            "timeupdated": "1727831290"
         },
         "astromain_su": {
             "buildid": "15886582",
@@ -4824,9 +4824,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15890249",
+            "buildid": "15896411",
             "pwdrequired": "1",
-            "timeupdated": "1727794153"
+            "timeupdated": "1727832297"
         },
         "lionbridge_qa": {
             "buildid": "15884352",
@@ -6082,14 +6082,14 @@
             "timeupdated": "1726499191"
         },
         "test": {
-            "buildid": "15751901",
+            "buildid": "15896420",
             "pwdrequired": "1",
-            "timeupdated": "1726723003"
+            "timeupdated": "1727832348"
         },
         "nodecraft": {
-            "buildid": "15751901",
+            "buildid": "15765273",
             "pwdrequired": "1",
-            "timeupdated": "1726760484"
+            "timeupdated": "1727832235"
         },
         "upload": {
             "buildid": "15765273",
@@ -7492,9 +7492,9 @@
             "timeupdated": "1727799948"
         },
         "internal6": {
-            "buildid": "15882662",
+            "buildid": "15896425",
             "pwdrequired": "1",
-            "timeupdated": "1727744911"
+            "timeupdated": "1727832376"
         },
         "internal7": {
             "buildid": "15473263",
