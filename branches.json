@@ -2076,9 +2076,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15915549",
+            "buildid": "15916286",
             "pwdrequired": "1",
-            "timeupdated": "1727956306"
+            "timeupdated": "1727960336"
         },
         "squad_release": {
             "buildid": "15856497",
@@ -6324,7 +6324,7 @@
         "buildtest": {
             "buildid": "15872814",
             "pwdrequired": "1",
-            "timeupdated": "1727685764"
+            "timeupdated": "1727960076"
         },
         "v0.24.2": {
             "buildid": "13872628",
@@ -6643,9 +6643,9 @@
             "timeupdated": "1724916691"
         },
         "internal-3": {
-            "buildid": "15914538",
+            "buildid": "15915951",
             "pwdrequired": "1",
-            "timeupdated": "1727951055"
+            "timeupdated": "1727958415"
         },
         "internal-4": {
             "buildid": "15772178",
@@ -7041,9 +7041,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15914730",
+            "buildid": "15916284",
             "pwdrequired": "1",
-            "timeupdated": "1727952265"
+            "timeupdated": "1727960328"
         },
         "goblin": {
             "buildid": "15915207",
