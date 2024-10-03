@@ -5016,9 +5016,9 @@
             "timeupdated": "1726864393"
         },
         "uat_release": {
-            "buildid": "15915783",
+            "buildid": "15916516",
             "pwdrequired": "1",
-            "timeupdated": "1727957528"
+            "timeupdated": "1727961568"
         },
         "uat_tct": {
             "buildid": "9972864",
@@ -6087,9 +6087,9 @@
             "timeupdated": "1726499191"
         },
         "test": {
-            "buildid": "15896740",
+            "buildid": "15916652",
             "pwdrequired": "1",
-            "timeupdated": "1727834629"
+            "timeupdated": "1727962262"
         },
         "nodecraft": {
             "buildid": "15765273",
@@ -6238,8 +6238,8 @@
     },
     "1169370": {
         "public": {
-            "buildid": "15872814",
-            "timeupdated": "1727686064"
+            "buildid": "15916339",
+            "timeupdated": "1727961115"
         },
         "expo": {
             "buildid": "11335899",
@@ -6322,9 +6322,9 @@
             "timeupdated": "1711560979"
         },
         "buildtest": {
-            "buildid": "15872814",
+            "buildid": "15916339",
             "pwdrequired": "1",
-            "timeupdated": "1727960076"
+            "timeupdated": "1727960601"
         },
         "v0.24.2": {
             "buildid": "13872628",
@@ -6663,9 +6663,9 @@
             "timeupdated": "1724759242"
         },
         "internal-qa": {
-            "buildid": "15914541",
+            "buildid": "15916388",
             "pwdrequired": "1",
-            "timeupdated": "1727951070"
+            "timeupdated": "1727960851"
         },
         "internal-slow": {
             "buildid": "15075007",
@@ -8069,9 +8069,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15915750",
+            "buildid": "15916357",
             "description": "Builds before live",
-            "timeupdated": "1727957300"
+            "timeupdated": "1727960674"
         }
     },
     "1899880": {
