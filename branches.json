@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15928274",
+            "buildid": "15931054",
             "pwdrequired": "1",
-            "timeupdated": "1728036439"
+            "timeupdated": "1728051262"
         },
         "lionbridge_qa": {
             "buildid": "15899158",
@@ -4849,9 +4849,9 @@
             "timeupdated": "1722859414"
         },
         "qa_testroom": {
-            "buildid": "15912887",
+            "buildid": "15912546",
             "pwdrequired": "1",
-            "timeupdated": "1728025374"
+            "timeupdated": "1728050542"
         },
         "qa_testroom_2": {
             "buildid": "15802360",
@@ -7472,9 +7472,9 @@
             "timeupdated": "1727257932"
         },
         "internal": {
-            "buildid": "15928835",
+            "buildid": "15931002",
             "pwdrequired": "1",
-            "timeupdated": "1728039400"
+            "timeupdated": "1728050975"
         },
         "internal2": {
             "buildid": "14965629",
@@ -8353,9 +8353,9 @@
             "timeupdated": "1725955731"
         },
         "canary": {
-            "buildid": "15915848",
+            "buildid": "15930864",
             "description": "Bleeding-edge releases",
-            "timeupdated": "1727957899"
+            "timeupdated": "1728050202"
         },
         "hotfix": {
             "buildid": "15647913",
