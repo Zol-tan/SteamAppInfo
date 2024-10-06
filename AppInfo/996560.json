@@ -120,9 +120,9 @@
             },
             "encryptedmanifests": {
                 "ci-build": {
-                    "gid": "CB84A064DD2E2313CE2CAA9B42BC394B",
-                    "size": "ABFDCF43EF6C21C8B0DCC76EE1965C78",
-                    "download": "6F98ECCE712A9F481E8B6207D7BC0FF5"
+                    "gid": "CE74DE5F231CF8E3F40A43B3410EC54A",
+                    "size": "2C9DDF130C06FDF10838FAD94AA98DDC",
+                    "download": "4E3C2C31FA80CD2A4AF48B280F3E8E8A"
                 },
                 "staff-testing": {
                     "gid": "EE3C91E8D317DDB080E0CC4649515ABB",
@@ -190,9 +190,9 @@
             },
             "encryptedmanifests": {
                 "ci-build": {
-                    "gid": "4095C16F80514D356843B36479A7F6C0",
-                    "size": "665DB8DF2221F9AB8A696D829C89C662",
-                    "download": "C51D35B95A79CCE6865E4DA878411B67"
+                    "gid": "50B5F663058A0EA7131CBF6FC92160EC",
+                    "size": "8D63B1BCD6419A7EE8BA3117F898CA96",
+                    "download": "2ADCA58F414B1380337DE010D928ED28"
                 },
                 "staff-testing": {
                     "gid": "AA30C5F6285F4EFF431A172333DBF275",
@@ -237,9 +237,9 @@
                 "timeupdated": "1721502880"
             },
             "ci-build": {
-                "buildid": "15942279",
+                "buildid": "15942470",
                 "pwdrequired": "1",
-                "timeupdated": "1728171005"
+                "timeupdated": "1728174382"
             },
             "pluginapi-beta": {
                 "buildid": "12081119",
@@ -294,7 +294,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25551580,
-    "_sha": "8563875a7007fad7bf4a62300beb89221447d7d1",
+    "_change_number": 25551865,
+    "_sha": "b102da8337c21c91bc655f0914cdc40ccfb7ee65",
     "_size": 7356
 }
