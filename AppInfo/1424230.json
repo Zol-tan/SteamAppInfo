@@ -100,9 +100,9 @@
                     "download": "D13509BC91A01B435B2496ED5E355092"
                 },
                 "development": {
-                    "gid": "AFF6E7221AA24B402FEC17BE85A149A4",
-                    "size": "DAF48AF4339E5A283567A201EA50D402",
-                    "download": "EDFDD2285B4241EAFB4240D0A266CF4F"
+                    "gid": "B0D0F6CB99E571ABC7071271861C44B3",
+                    "size": "BED29DC34076290A05A60311A952AFD6",
+                    "download": "C136ADD668AE456566D354513750D4A4"
                 },
                 "goblin": {
                     "gid": "C97BAB043BA485F9082F054A4C2C129A",
@@ -146,9 +146,9 @@
                     "download": "B0318D2CE047C6DDACC4AA7341132DFC"
                 },
                 "development": {
-                    "gid": "E76803EF97B9C74F519F0F2CA875A798",
-                    "size": "AF99D285AD8EFE73B05010644783BE47",
-                    "download": "1404389CA1D41FB4CB5E7AA1430D4189"
+                    "gid": "C92DDCC3E7D55F40559DC1C04303FF77",
+                    "size": "9CD43B4C7146DEADDB3C11CA14AF4B6D",
+                    "download": "6C6C6E9EFCA13348C38CFD766A07CA74"
                 },
                 "goblin": {
                     "gid": "706EE147C79D5E01BE0799197A2AAADD",
@@ -183,9 +183,9 @@
                 "timeupdated": "1725372816"
             },
             "development": {
-                "buildid": "15951193",
+                "buildid": "15953202",
                 "pwdrequired": "1",
-                "timeupdated": "1728291504"
+                "timeupdated": "1728303694"
             },
             "goblin": {
                 "buildid": "15932684",
@@ -200,7 +200,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25564487,
-    "_sha": "72471b29b93ffda2740a22fe849484578ad39d32",
+    "_change_number": 25567266,
+    "_sha": "ca17b1c20572f4a0d2d5266018532e0e988cb956",
     "_size": 4885
 }

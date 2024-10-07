@@ -878,9 +878,9 @@
             "timeupdated": "1713877552"
         },
         "cdlc_private_beta_server": {
-            "buildid": "15952498",
+            "buildid": "15952959",
             "pwdrequired": "1",
-            "timeupdated": "1728299228"
+            "timeupdated": "1728302072"
         },
         "contact_staging": {
             "buildid": "15900409",
@@ -1090,13 +1090,13 @@
             "timeupdated": "1728210156"
         },
         "staging": {
-            "buildid": "15944870",
-            "timeupdated": "1728215966"
+            "buildid": "15953272",
+            "timeupdated": "1728304053"
         },
         "staging-debug": {
-            "buildid": "15944874",
+            "buildid": "15953283",
             "pwdrequired": "1",
-            "timeupdated": "1728216029"
+            "timeupdated": "1728304116"
         },
         "test": {
             "buildid": "15110119",
@@ -3049,9 +3049,9 @@
             "timeupdated": "1725998362"
         },
         "steamtest": {
-            "buildid": "15945987",
+            "buildid": "15952762",
             "pwdrequired": "1",
-            "timeupdated": "1728234951"
+            "timeupdated": "1728302537"
         },
         "steamtest2": {
             "buildid": "14722823",
@@ -3882,9 +3882,9 @@
             "timeupdated": "1720556043"
         },
         "testing": {
-            "buildid": "15767239",
+            "buildid": "15949980",
             "pwdrequired": "1",
-            "timeupdated": "1726818484"
+            "timeupdated": "1728302655"
         }
     },
     "630230": {
@@ -7041,9 +7041,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15951193",
+            "buildid": "15953202",
             "pwdrequired": "1",
-            "timeupdated": "1728291504"
+            "timeupdated": "1728303694"
         },
         "goblin": {
             "buildid": "15932684",
