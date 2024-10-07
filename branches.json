@@ -3628,9 +3628,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15946258",
+            "buildid": "15948963",
             "description": "beta branch",
-            "timeupdated": "1728235588"
+            "timeupdated": "1728269902"
         },
         "preterrain": {
             "buildid": "15643481",
@@ -4399,8 +4399,8 @@
     },
     "730810": {
         "public": {
-            "buildid": "15870400",
-            "timeupdated": "1727662889"
+            "buildid": "15948939",
+            "timeupdated": "1728270150"
         }
     },
     "739120": {
@@ -8069,9 +8069,9 @@
             "timeupdated": "1700213604"
         },
         "staging": {
-            "buildid": "15948707",
+            "buildid": "15948859",
             "description": "Builds before live",
-            "timeupdated": "1728267170"
+            "timeupdated": "1728268837"
         }
     },
     "1899880": {
