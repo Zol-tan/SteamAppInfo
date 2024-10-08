@@ -97,9 +97,9 @@
                     "download": "16D975544CA1CC67150C25794CEF1435"
                 },
                 "cdlc_private_beta_server": {
-                    "gid": "1A529B08504C1058A54E4839E004CD83",
-                    "size": "6BCDE6B8EAB6DC0995C0B442B7EE9A06",
-                    "download": "250B32741FA24E6E5C7E278BA01A8BBA"
+                    "gid": "03C7FB725B90FCA6E2F37F4FAD56F8BA",
+                    "size": "1205231ABE320AAE72DBACD9808B03FB",
+                    "download": "D95E0881424E7B9E5CB7CBC86396FD71"
                 },
                 "content_licensing_server": {
                     "gid": "F9B1D000B51CC3B29DCD70C5877E4044",
@@ -156,9 +156,9 @@
                     "download": "7C299242DEE05F20AA7F724A4FE945B4"
                 },
                 "cdlc_private_beta_server": {
-                    "gid": "6B022812E4CDD23D614030A90111D841",
-                    "size": "27909C5E1C05A8B075F17AB7CCC79A52",
-                    "download": "1546836C554776B9EFD96B1A528A86D6"
+                    "gid": "EFD197DAB43819389DFD0941BE7AEB99",
+                    "size": "425495CC615B0CB15A53EB5AC88CD902",
+                    "download": "8B09B935D1DF7ADDB2929533D47FDF2B"
                 },
                 "content_licensing_server": {
                     "gid": "511CD12E6B57E9C46791B698783E2CD7",
@@ -215,9 +215,9 @@
                     "download": "B0F3E427E66CF10F71DD3FE421FA56E8"
                 },
                 "cdlc_private_beta_server": {
-                    "gid": "8E6B5F11436920EB593C6089D9053060",
-                    "size": "173D8FB58DC8DB5352FE14EF3EE6C91B",
-                    "download": "9013EF2C562CE1955FE1602741B88A8F"
+                    "gid": "C832E1C9FAF0148CFC3609FF4E5E57FB",
+                    "size": "CD1185A11899774DBBE892BCE85AC4AD",
+                    "download": "D2EBECCFA6CA4F127207FC1309123F1C"
                 },
                 "content_licensing_server": {
                     "gid": "257A27B9ED55D0EEDE395FB5CA65077B",
@@ -418,9 +418,9 @@
                 "timeupdated": "1713877552"
             },
             "cdlc_private_beta_server": {
-                "buildid": "15952959",
+                "buildid": "15967294",
                 "pwdrequired": "1",
-                "timeupdated": "1728302072"
+                "timeupdated": "1728392642"
             },
             "contact": {
                 "buildid": "15900409",
@@ -460,7 +460,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25586353,
-    "_sha": "cbc01e23775bc22db8babd35ab8719c1beca86dc",
+    "_change_number": 25586500,
+    "_sha": "08e449cc20516e6720f97829e8c2cf65f4cebd60",
     "_size": 12102
 }
