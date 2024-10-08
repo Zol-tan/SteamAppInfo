@@ -2955,8 +2955,8 @@
     },
     "530870": {
         "public": {
-            "buildid": "15667660",
-            "timeupdated": "1726133390"
+            "buildid": "15965752",
+            "timeupdated": "1728402533"
         },
         "alpha10": {
             "buildid": "4347212",
@@ -7021,9 +7021,9 @@
             "timeupdated": "1725372816"
         },
         "development": {
-            "buildid": "15966971",
+            "buildid": "15969095",
             "pwdrequired": "1",
-            "timeupdated": "1728390899"
+            "timeupdated": "1728402068"
         },
         "goblin": {
             "buildid": "15968748",
