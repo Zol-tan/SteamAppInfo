@@ -1090,13 +1090,13 @@
             "timeupdated": "1728329637"
         },
         "staging": {
-            "buildid": "15958044",
-            "timeupdated": "1728330801"
+            "buildid": "15962742",
+            "timeupdated": "1728365832"
         },
         "staging-debug": {
-            "buildid": "15958052",
+            "buildid": "15962746",
             "pwdrequired": "1",
-            "timeupdated": "1728330864"
+            "timeupdated": "1728365891"
         },
         "test": {
             "buildid": "15110119",
@@ -4829,9 +4829,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15962363",
+            "buildid": "15962673",
             "pwdrequired": "1",
-            "timeupdated": "1728362339"
+            "timeupdated": "1728365126"
         },
         "lionbridge_qa": {
             "buildid": "15899158",
@@ -8001,9 +8001,9 @@
             "timeupdated": "1707216793"
         },
         "experimental": {
-            "buildid": "15947775",
+            "buildid": "15962534",
             "pwdrequired": "1",
-            "timeupdated": "1728256247"
+            "timeupdated": "1728363944"
         },
         "internal": {
             "buildid": "15948127",
