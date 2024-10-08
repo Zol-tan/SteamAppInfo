@@ -306,7 +306,7 @@
                 "description": "externalnv"
             },
             "41": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings dailymain",
                 "type": "option1",
                 "config": {
@@ -1125,7 +1125,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25585937,
-    "_sha": "e9cffcd83dd682d31562028785886b29739f80f0",
-    "_size": 32319
+    "_change_number": 25585974,
+    "_sha": "0594ae7642ccb44270de612f1502973d48d9ba61",
+    "_size": 32301
 }
