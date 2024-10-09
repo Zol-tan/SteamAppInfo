@@ -2061,9 +2061,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15980024",
+            "buildid": "15980631",
             "pwdrequired": "1",
-            "timeupdated": "1728474911"
+            "timeupdated": "1728478173"
         },
         "squad_release": {
             "buildid": "15856497",
@@ -4799,9 +4799,9 @@
             "timeupdated": "1724854408"
         },
         "external_playtest": {
-            "buildid": "15945361",
+            "buildid": "15962363",
             "pwdrequired": "1",
-            "timeupdated": "1728314168"
+            "timeupdated": "1728478759"
         },
         "external_tech_test": {
             "buildid": "15008972",
@@ -5724,9 +5724,9 @@
             "timeupdated": "1721502880"
         },
         "ci-build": {
-            "buildid": "15979665",
+            "buildid": "15980688",
             "pwdrequired": "1",
-            "timeupdated": "1728472881"
+            "timeupdated": "1728478549"
         },
         "pluginapi-beta": {
             "buildid": "12081119",
@@ -5749,9 +5749,9 @@
             "timeupdated": "1717183209"
         },
         "mr-testing": {
-            "buildid": "15863390",
+            "buildid": "15979665",
             "pwdrequired": "1",
-            "timeupdated": "1727713783"
+            "timeupdated": "1728478121"
         },
         "mr-testing-2": {
             "buildid": "15880189",
