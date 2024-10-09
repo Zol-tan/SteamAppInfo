@@ -7031,9 +7031,9 @@
             "timeupdated": "1728473468"
         },
         "goblin": {
-            "buildid": "15982364",
+            "buildid": "15982428",
             "pwdrequired": "1",
-            "timeupdated": "1728487030"
+            "timeupdated": "1728487384"
         },
         "staging": {
             "buildid": "15873986",
@@ -7777,9 +7777,9 @@
             "timeupdated": "1728483425"
         },
         "development_next": {
-            "buildid": "15982328",
+            "buildid": "15982582",
             "pwdrequired": "1",
-            "timeupdated": "1728486859"
+            "timeupdated": "1728488296"
         },
         "experimental_private": {
             "buildid": "15980512",
