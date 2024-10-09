@@ -76,7 +76,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -595,9 +596,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "55A0D192507B76A3A088292DD352A9F5",
-                    "size": "5E3E2D93E4278F4FCE47C3C09B5562A8",
-                    "download": "565C24AD4EE3B9EC057C0E869FA94667"
+                    "gid": "003D39AFB44A3DF6399A8E86D97340F3",
+                    "size": "144666F9D2B1ED41402D4FD5054A2C84",
+                    "download": "AE3CF3674D78276A0000E10B3E07CC7A"
                 },
                 "lionbridge_qa": {
                     "gid": "FBDC11EA4C3ED984C408306F42C56B18",
@@ -720,9 +721,9 @@
                     "download": "69420040302A60AAA6E82E9DBA645001"
                 },
                 "latest": {
-                    "gid": "384D8E976A999ED53000211BBFF60547",
-                    "size": "912E78D961C7F9B07FC3F9B448704206",
-                    "download": "A0DB70775CEFC8CF5AADB89EBBB836A6"
+                    "gid": "27B02E6DFAC5FABC3813D6595854C7A5",
+                    "size": "4E50834551AF3C9B49CC50490C2387FF",
+                    "download": "BFBD48775F564532583AD6584CBADDDA"
                 },
                 "lionbridge_qa": {
                     "gid": "19C3984CD66206E21BCC81166198B73F",
@@ -845,9 +846,9 @@
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
                 "latest": {
-                    "gid": "4148E29F88ECF3A30A947FEA9E417187",
-                    "size": "4A25C4B2BE322B8EB4C6BC1D7B25E11C",
-                    "download": "CE6ACFF7C3AEE19168DCBDA6E5AA5F7A"
+                    "gid": "B7E217AEA852BA8C14BEE1AD00454656",
+                    "size": "D5AE866E4F96C2890D32E333DCC1C01A",
+                    "download": "DA9C9964D047017405B1768B1D5C1905"
                 },
                 "lionbridge_qa": {
                     "gid": "61FAB9477F41A231D9AD2DF6361B445C",
@@ -1087,9 +1088,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15966455",
+                "buildid": "15975629",
                 "pwdrequired": "1",
-                "timeupdated": "1728388047"
+                "timeupdated": "1728447641"
             },
             "lionbridge_qa": {
                 "buildid": "15945361",
@@ -1124,7 +1125,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25612952,
-    "_sha": "00ac04352447590581408017d4f7da1c691a2bee",
-    "_size": 32348
+    "_change_number": 25621559,
+    "_sha": "23624ff51a74bfccc5fd019442a194a3af125e50",
+    "_size": 32371
 }
