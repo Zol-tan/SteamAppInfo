@@ -1164,9 +1164,9 @@
             "timeupdated": "1728515180"
         },
         "testing_branch": {
-            "buildid": "15899483",
+            "buildid": "15990319",
             "pwdrequired": "1",
-            "timeupdated": "1727857121"
+            "timeupdated": "1728540729"
         },
         "latest_experimental": {
             "buildid": "15812436",
@@ -4357,9 +4357,9 @@
             "timeupdated": "1728464744"
         },
         "astromain_incremental": {
-            "buildid": "15990063",
+            "buildid": "15990414",
             "pwdrequired": "1",
-            "timeupdated": "1728538819"
+            "timeupdated": "1728541465"
         },
         "astromain_su": {
             "buildid": "15978338",
@@ -4809,9 +4809,9 @@
             "timeupdated": "1720869669"
         },
         "latest": {
-            "buildid": "15990048",
+            "buildid": "15990195",
             "pwdrequired": "1",
-            "timeupdated": "1728538677"
+            "timeupdated": "1728539685"
         },
         "lionbridge_qa": {
             "buildid": "15945361",
@@ -6216,9 +6216,9 @@
             "timeupdated": "1727879244"
         },
         "public-test-branch": {
-            "buildid": "15980561",
+            "buildid": "15990352",
             "pwdrequired": "1",
-            "timeupdated": "1728477782"
+            "timeupdated": "1728541043"
         }
     },
     "1169370": {
@@ -6648,9 +6648,9 @@
             "timeupdated": "1728410806"
         },
         "internal-qa": {
-            "buildid": "15984265",
+            "buildid": "15990528",
             "pwdrequired": "1",
-            "timeupdated": "1728497352"
+            "timeupdated": "1728542453"
         },
         "internal-slow": {
             "buildid": "15075007",
