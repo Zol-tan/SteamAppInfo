@@ -673,9 +673,9 @@
             "timeupdated": "1702646996"
         },
         "internalplaytest": {
-            "buildid": "15381549",
+            "buildid": "15993393",
             "pwdrequired": "1",
-            "timeupdated": "1723724507"
+            "timeupdated": "1728557939"
         },
         "ps4_internal": {
             "buildid": "15635165",
@@ -2061,9 +2061,9 @@
             "timeupdated": "1724790219"
         },
         "squad_main": {
-            "buildid": "15992642",
+            "buildid": "15993328",
             "pwdrequired": "1",
-            "timeupdated": "1728554404"
+            "timeupdated": "1728557546"
         },
         "squad_release": {
             "buildid": "15986725",
@@ -5296,9 +5296,9 @@
             "timeupdated": "1713071191"
         },
         "debug": {
-            "buildid": "15992235",
+            "buildid": "15993517",
             "pwdrequired": "1",
-            "timeupdated": "1728552218"
+            "timeupdated": "1728558508"
         },
         "indev": {
             "buildid": "15840643",
