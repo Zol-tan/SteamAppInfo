@@ -3004,9 +3004,9 @@
             "timeupdated": "1726080911"
         },
         "eleononly": {
-            "buildid": "15994447",
+            "buildid": "15997650",
             "pwdrequired": "1",
-            "timeupdated": "1728563009"
+            "timeupdated": "1728579708"
         },
         "eleontest": {
             "buildid": "15988094",
@@ -3613,9 +3613,9 @@
             "timeupdated": "1689829236"
         },
         "beta": {
-            "buildid": "15989758",
+            "buildid": "15997836",
             "description": "beta branch",
-            "timeupdated": "1728536276"
+            "timeupdated": "1728580982"
         },
         "preterrain": {
             "buildid": "15643481",
@@ -4357,9 +4357,9 @@
             "timeupdated": "1728548948"
         },
         "astromain_incremental": {
-            "buildid": "15990414",
+            "buildid": "15997817",
             "pwdrequired": "1",
-            "timeupdated": "1728541465"
+            "timeupdated": "1728580811"
         },
         "astromain_su": {
             "buildid": "15992670",
