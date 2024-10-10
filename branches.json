@@ -2464,9 +2464,9 @@
             "timeupdated": "1723221800"
         },
         "exiles-testfeature": {
-            "buildid": "15976927",
+            "buildid": "15990622",
             "pwdrequired": "1",
-            "timeupdated": "1728456748"
+            "timeupdated": "1728543293"
         },
         "nightly-live": {
             "buildid": "14577602",
@@ -7940,8 +7940,8 @@
     },
     "1863440": {
         "public": {
-            "buildid": "15276684",
-            "timeupdated": "1725302861"
+            "buildid": "15491413",
+            "timeupdated": "1728542872"
         },
         "community.server.test": {
             "buildid": "9827894",
@@ -7969,9 +7969,9 @@
             "timeupdated": "1725347128"
         },
         "v1.2.11": {
-            "buildid": "15276684",
+            "buildid": "15491413",
             "description": "Beta v1.2.11",
-            "timeupdated": "1725302834"
+            "timeupdated": "1728542875"
         }
     },
     "1865350": {
